@@ -1,1820 +1,3071 @@
 [
   {
-    "name": "嘉禾一品（温都水城）",
-    "address": "北京市昌平区宏福苑温都水城F1",
-    "id": 1,
-    "latitude": 40.10039,
-    "longitude": 116.36868,
-    "location": [
-      116.36868,
-      40.10039
-    ],
-    "phone": "13437850035",
-    "category": "快餐便当/简餐",
-    "supports": [
+    "address": "长沙市岳麓区望城坡街道箭弓山2期3栋6号1楼",
+    "authentic_id": 2353664984737413,
+    "business_info": "{}",
+    "description": "欢迎各位新老顾客进店选购，店铺升级新产品，让您体验不一样的美味",
+    "distance": 2767,
+    "favored": false,
+    "flavors": [
       {
-        "description": "已加入“外卖保”计划，食品安全有保障",
-        "icon_color": "999999",
-        "icon_name": "保",
-        "id": 7,
-        "name": "外卖保",
-        "_id": "5a5859a19c2bc57d52df30b3"
+        "id": 218,
+        "name": "烧烤"
       },
       {
-        "description": "准时必达，超时秒赔",
-        "icon_color": "57A9FF",
-        "icon_name": "准",
-        "id": 9,
-        "name": "准时达",
-        "_id": "5a5859a19c2bc57d52df30b2"
-      },
-      {
-        "description": "该商家支持开发票，请在下单时填写好发票抬头",
-        "icon_color": "999999",
-        "icon_name": "票",
-        "id": 4,
-        "name": "开发票",
-        "_id": "5a5859a19c2bc57d52df30b1"
+        "id": 237,
+        "name": "地方小吃"
       }
     ],
-    "status": 1,
-    "recent_order_num": 106,
-    "rating_count": 961,
-    "rating": 4.7,
-    "promotion_info": "欢迎光临，用餐高峰请提前下单，谢谢",
-    "piecewise_agent_fee": {
-      "tips": "配送费约¥5"
-    },
-    "opening_hours": [
-      "8:30/20:30"
-    ],
-    "license": {
-      "catering_service_license_image": "160e91e17fa2164.png",
-      "business_license_image": "160e91e0a9f2163.png"
-    },
-    "is_new": true,
-    "is_premium": true,
-    "image_path": "16018a5c08533.jpeg",
-    "identification": {
-      "registered_number": "",
-      "registered_address": "",
-      "operation_period": "",
-      "licenses_scope": "",
-      "licenses_number": "",
-      "licenses_date": "",
-      "legal_person": "",
-      "identificate_date": null,
-      "identificate_agency": "",
-      "company_name": ""
-    },
+    "float_delivery_fee": 2.6,
     "float_minimum_order_amount": 20,
-    "float_delivery_fee": 5,
-    "distance": "2120.1公里",
-    "order_lead_time": "31小时24分钟",
-    "description": "sad",
-    "delivery_mode": {
-      "color": "57A9FF",
-      "id": 1,
-      "is_solid": true,
-      "text": "硅谷专送"
-    },
-    "activities": [],
-    "__v": 0
-  },
-  {
-    "name": "闪电哥哥ghj慰问费22",
-    "address": "河南省郑州市蜀山区南二环路天鹅湖万达广场8号楼1705室",
-    "id": 479,
-    "latitude": 31.81948,
-    "longitude": 117.22124,
-    "location": [
-      93.50611,
-      42.84974
-    ],
-    "phone": "122343adsa",
-    "category": "异国料理",
-    "supports": [
-      {
-        "description": "已加入“外卖保”计划，食品安全有保障",
-        "icon_color": "999999",
-        "icon_name": "保",
-        "id": 7,
-        "name": "外卖保",
-        "_id": "5a66f45c76d92175ac4464dd"
-      },
-      {
-        "description": "准时必达，超时秒赔",
-        "icon_color": "57A9FF",
-        "icon_name": "准",
-        "id": 9,
-        "name": "准时达",
-        "_id": "5a66f45c76d92175ac4464dc"
-      },
-      {
-        "description": "该商家支持开发票，请在下单时填写好发票抬头",
-        "icon_color": "999999",
-        "icon_name": "票",
-        "id": 4,
-        "name": "开发票",
-        "_id": "5a66f45c76d92175ac4464db"
-      }
-    ],
-    "status": 1,
-    "recent_order_num": 755,
-    "rating_count": 167,
-    "rating": 4.2,
-    "promotion_info": "欢迎光临，用餐高峰请提前下单，谢谢",
-    "piecewise_agent_fee": {
-      "tips": "配送费约¥5"
-    },
+    "has_story": false,
+    "id": 156816513,
+    "image_path": "d8beed48be705ceede3456aee7c16687jpeg",
+    "is_new": false,
+    "is_premium": false,
+    "is_stock_empty": 0,
+    "is_valid": 1,
+    "latitude": 28.204735,
+    "longitude": 112.909733,
+    "max_applied_quantity_per_order": -1,
+    "name": "邢老二湘西烧烤（河西店）",
+    "next_business_time": "",
+    "only_use_poi": false,
     "opening_hours": [
-      "8:30/20:30"
+      "17:00/03:00"
     ],
-    "license": {
-      "catering_service_license_image": "",
-      "business_license_image": ""
+    "order_lead_time": 42,
+    "phone": "15258612971 13207310996",
+    "piecewise_agent_fee": {
+      "description": "夜间配送费¥2.6",
+      "extra_fee": 1.1,
+      "is_extra": true,
+      "no_subsidy_fee": "¥5.6",
+      "rules": [
+        {
+          "fee": 2.6,
+          "price": 20
+        }
+      ],
+      "tips": "夜间配送费¥2.6"
     },
-    "is_new": true,
-    "is_premium": true,
-    "image_path": "161e60bf5b85700.png",
-    "identification": {
-      "registered_number": "",
-      "registered_address": "",
-      "operation_period": "",
-      "licenses_scope": "",
-      "licenses_number": "",
-      "licenses_date": "",
-      "legal_person": "",
-      "identificate_date": null,
-      "identificate_agency": "",
-      "company_name": ""
-    },
-    "float_minimum_order_amount": 20,
-    "float_delivery_fee": 5,
-    "distance": "1010.3公里",
-    "order_lead_time": "21小时7分钟",
-    "description": "描述性内容1",
-    "delivery_mode": {
-      "color": "57A9FF",
-      "id": 1,
-      "is_solid": true,
-      "text": "硅谷专送"
-    },
-    "activities": [
-      {
-        "icon_name": "减",
-        "name": "满减优惠",
-        "description": "满30减5，满60减8",
-        "icon_color": "f07373",
-        "id": 1,
-        "_id": "5a66f45c76d92175ac4464de"
-      }
-    ],
-    "__v": 0
-  },
-  {
-    "name": "苏州嘻哈包袱铺",
-    "address": "江苏省苏州市吴中区吴东路中文基广场(姜家桥公交站南)",
-    "id": 485,
-    "latitude": 31.26578,
-    "longitude": 120.65355,
-    "location": [
-      120.65355,
-      31.26578
-    ],
-    "phone": "12345678901",
-    "category": "商店超市/名酒坊",
-    "supports": [
-      {
-        "description": "已加入“外卖保”计划，食品安全有保障",
-        "icon_color": "999999",
-        "icon_name": "保",
-        "id": 7,
-        "name": "外卖保",
-        "_id": "5a6830b41d632b05464db9d1"
-      },
-      {
-        "description": "准时必达，超时秒赔",
-        "icon_color": "57A9FF",
-        "icon_name": "准",
-        "id": 9,
-        "name": "准时达",
-        "_id": "5a6830b41d632b05464db9d0"
-      },
-      {
-        "description": "该商家支持开发票，请在下单时填写好发票抬头",
-        "icon_color": "999999",
-        "icon_name": "票",
-        "id": 4,
-        "name": "开发票",
-        "_id": "5a6830b41d632b05464db9cf"
-      }
-    ],
-    "status": 1,
-    "recent_order_num": 58,
-    "rating_count": 576,
+    "platform": 0,
+    "posters": [],
+    "promotion_info": "正宗湘西小串美味。推荐牛油天冷路滑，下单的亲们请耐心等待！外卖我们一直坚持原创，调料与食材都是在湘西的家人进行采购，托运到长沙，每天现切现穿，只为保证食材的新鲜和味道的正宗！！！把正宗的美食送到您的身边，您的满意是我们的动力！谢谢亲们支持与厚爱，如果有做的不好的，希望得到您的",
     "rating": 4.6,
-    "promotion_info": "欢迎光临，用餐高峰请提前下单，谢谢",
-    "piecewise_agent_fee": {
-      "tips": "配送费约¥5"
+    "rating_count": 386,
+    "recent_order_num": 639,
+    "recommend": {
+      "image_hash": "731111f3f9379e772eedf4855beae8a1jpeg",
+      "is_ad": false,
+      "track": "{\"rankType\":\"27\"}"
     },
-    "opening_hours": [
-      "8:30/20:30"
+    "recommend_reasons": [],
+    "regular_customer_count": 0,
+    "scheme": "eleme://catering?restaurant_id=156816513",
+    "status": 1,
+    "support_tags": [
+      {
+        "border": "dddddd",
+        "color": "666666",
+        "icon": "4e20966ca2a516de3f02fb9c7fd1bc6dpng",
+        "text": "烧烤",
+        "type": 1
+      }
     ],
-    "license": {
-      "catering_service_license_image": "16126fe59b83261.jpg",
-      "business_license_image": "16126fe55013260.jpg"
+    "supports": [],
+    "theme": {
+      "default_color": "2395ff",
+      "header_style": 0,
+      "hongbao_style": 0,
+      "price_color": "ff5339",
+      "third_tab_name": "商家",
+      "vanish_fields": []
     },
-    "is_new": true,
-    "is_premium": true,
-    "image_path": "161690214004367.png",
-    "identification": {
-      "registered_number": "",
-      "registered_address": "",
-      "operation_period": "",
-      "licenses_scope": "",
-      "licenses_number": "",
-      "licenses_date": "",
-      "legal_person": "",
-      "identificate_date": null,
-      "identificate_agency": "",
-      "company_name": ""
-    },
-    "float_minimum_order_amount": 20,
-    "float_delivery_fee": 5,
-    "distance": "1167.4公里",
-    "order_lead_time": "19小时1分钟",
+    "type": 0
+  },
+  {
+    "address": "长沙高新开发区麓谷五期东塘安置小区13栋105号",
+    "authentic_id": 8393674996564991,
+    "business_info": "{}",
     "description": "",
-    "delivery_mode": {
-      "color": "57A9FF",
-      "id": 1,
-      "is_solid": true,
-      "text": "硅谷专送"
-    },
-    "activities": [
+    "distance": 3111,
+    "favored": false,
+    "flavors": [
       {
-        "icon_name": "减",
-        "name": "满减优惠",
-        "description": "满30减5，满60减8",
-        "icon_color": "f07373",
-        "id": 1,
-        "_id": "5a6830b41d632b05464db9d2"
+        "id": 218,
+        "name": "烧烤"
       }
     ],
-    "__v": 0
-  },
-  {
-    "name": "大树旗舰店2112",
-    "address": "广东省广州市天河区东圃镇汇彩路38号1领汇创展商务中心401",
-    "id": 486,
-    "latitude": 23.1127,
-    "longitude": 113.41724,
-    "location": [
-      113.41724,
-      23.1127
-    ],
-    "phone": "13544323775",
-    "category": "快餐便当",
-    "supports": [
-      {
-        "description": "已加入“外卖保”计划，食品安全有保障",
-        "icon_color": "999999",
-        "icon_name": "保",
-        "id": 7,
-        "name": "外卖保",
-        "_id": "5a6863641d632b05464dbaea"
-      },
-      {
-        "description": "准时必达，超时秒赔",
-        "icon_color": "57A9FF",
-        "icon_name": "准",
-        "id": 9,
-        "name": "准时达",
-        "_id": "5a6863641d632b05464dbae9"
-      },
-      {
-        "description": "该商家支持开发票，请在下单时填写好发票抬头",
-        "icon_color": "999999",
-        "icon_name": "票",
-        "id": 4,
-        "name": "开发票",
-        "_id": "5a6863641d632b05464dbae8"
-      }
-    ],
-    "status": 1,
-    "recent_order_num": 542,
-    "rating_count": 372,
-    "rating": 4.2,
-    "promotion_info": "大树旗舰店标语",
-    "piecewise_agent_fee": {
-      "tips": "配送费约¥5"
-    },
-    "opening_hours": [
-      "09:00/21:30"
-    ],
-    "license": {
-      "catering_service_license_image": "16127c429983306.jpg",
-      "business_license_image": "16127c423ae3305.jpg"
-    },
-    "is_new": true,
-    "is_premium": true,
-    "image_path": "16131b317533592.png",
-    "identification": {
-      "registered_number": "",
-      "registered_address": "",
-      "operation_period": "",
-      "licenses_scope": "",
-      "licenses_number": "",
-      "licenses_date": "",
-      "legal_person": "",
-      "identificate_date": null,
-      "identificate_agency": "",
-      "company_name": ""
-    },
+    "float_delivery_fee": 3.1,
     "float_minimum_order_amount": 20,
-    "float_delivery_fee": 5,
-    "distance": "2128.8公里",
-    "order_lead_time": "32小时14分钟",
-    "description": "大树旗舰店大树旗舰店大树旗舰店简介",
-    "delivery_mode": {
-      "color": "57A9FF",
-      "id": 1,
-      "is_solid": true,
-      "text": "硅谷专送"
-    },
-    "activities": [
-      {
-        "icon_name": "减",
-        "name": "满减优惠",
-        "description": "满30减5，满60减8",
-        "icon_color": "f07373",
-        "id": 1,
-        "_id": "5a6863641d632b05464dbaeb"
-      }
-    ],
-    "__v": 0
-  },
-  {
-    "name": "广州酒家",
-    "address": "广东省广州市荔湾区上下九商业步行街内",
-    "id": 487,
-    "latitude": 23.11488,
-    "longitude": 113.24826,
-    "location": [
-      113.24826,
-      23.11488
-    ],
-    "phone": "750",
-    "category": "果蔬生鲜/海鲜水产",
-    "supports": [
-      {
-        "description": "已加入“外卖保”计划，食品安全有保障",
-        "icon_color": "999999",
-        "icon_name": "保",
-        "id": 7,
-        "name": "外卖保",
-        "_id": "5a687a781d632b05464dbb35"
-      },
-      {
-        "description": "准时必达，超时秒赔",
-        "icon_color": "57A9FF",
-        "icon_name": "准",
-        "id": 9,
-        "name": "准时达",
-        "_id": "5a687a781d632b05464dbb34"
-      },
-      {
-        "description": "该商家支持开发票，请在下单时填写好发票抬头",
-        "icon_color": "999999",
-        "icon_name": "票",
-        "id": 4,
-        "name": "开发票",
-        "_id": "5a687a781d632b05464dbb33"
-      }
-    ],
-    "status": 0,
-    "recent_order_num": 923,
-    "rating_count": 871,
-    "rating": 4.2,
-    "promotion_info": "广州第一家",
-    "piecewise_agent_fee": {
-      "tips": "配送费约¥5"
-    },
-    "opening_hours": [
-      "8:30/20:30"
-    ],
-    "license": {
-      "catering_service_license_image": "161281e6ef33314.png",
-      "business_license_image": "161281e4a723313.jpg"
-    },
-    "is_new": true,
+    "has_story": false,
+    "id": 164384991,
+    "image_path": "6086e3f519db96ee9fa3517eb41bab38png",
+    "is_new": false,
     "is_premium": true,
-    "image_path": "16164d139ce4307.png",
-    "identification": {
-      "registered_number": "",
-      "registered_address": "",
-      "operation_period": "",
-      "licenses_scope": "",
-      "licenses_number": "",
-      "licenses_date": "",
-      "legal_person": "",
-      "identificate_date": null,
-      "identificate_agency": "",
-      "company_name": ""
-    },
-    "float_minimum_order_amount": 20,
-    "float_delivery_fee": 5,
-    "distance": "2123公里",
-    "order_lead_time": "31小时26分钟",
-    "description": "喝早茶好去处",
-    "delivery_mode": {
-      "color": "57A9FF",
-      "id": 1,
-      "is_solid": true,
-      "text": "硅谷专送"
-    },
-    "activities": [
-      {
-        "icon_name": "减",
-        "name": "满减优惠",
-        "description": "满30减5，满60减8",
-        "icon_color": "f07373",
-        "id": 1,
-        "_id": "5a687a781d632b05464dbb36"
-      }
-    ],
-    "__v": 0
-  },
-  {
-    "name": "闪电老司机",
-    "address": "广东省广州市越秀区德政中路171",
-    "id": 488,
-    "latitude": 23.12092,
-    "longitude": 113.27521,
-    "location": [
-      113.27521,
-      23.12092
-    ],
-    "phone": "2",
-    "category": "果蔬生鲜",
-    "supports": [
-      {
-        "description": "已加入“外卖保”计划，食品安全有保障",
-        "icon_color": "999999",
-        "icon_name": "保",
-        "id": 7,
-        "name": "外卖保",
-        "_id": "5a687c8d1d632b05464dbb60"
-      },
-      {
-        "description": "准时必达，超时秒赔",
-        "icon_color": "57A9FF",
-        "icon_name": "准",
-        "id": 9,
-        "name": "准时达",
-        "_id": "5a687c8d1d632b05464dbb5f"
-      },
-      {
-        "description": "该商家支持开发票，请在下单时填写好发票抬头",
-        "icon_color": "999999",
-        "icon_name": "票",
-        "id": 4,
-        "name": "开发票",
-        "_id": "5a687c8d1d632b05464dbb5e"
-      }
-    ],
-    "status": 1,
-    "recent_order_num": 483,
-    "rating_count": 273,
-    "rating": 4.2,
-    "promotion_info": "4",
-    "piecewise_agent_fee": {
-      "tips": "配送费约¥5"
-    },
+    "is_stock_empty": 0,
+    "is_valid": 1,
+    "latitude": 28.203238,
+    "longitude": 112.866955,
+    "max_applied_quantity_per_order": -1,
+    "name": "客串出品烧烤(涉外店)",
+    "next_business_time": "",
+    "only_use_poi": false,
     "opening_hours": [
-      "8:30/20:30"
+      "17:00/01:30"
     ],
-    "license": {
-      "catering_service_license_image": "",
-      "business_license_image": ""
+    "order_lead_time": 36,
+    "phone": "0731-89928126",
+    "piecewise_agent_fee": {
+      "description": "夜间配送费¥3.1",
+      "extra_fee": 1.6,
+      "is_extra": true,
+      "no_subsidy_fee": "¥6.1",
+      "rules": [
+        {
+          "fee": 3.1,
+          "price": 20
+        }
+      ],
+      "tips": "夜间配送费¥3.1"
     },
-    "is_new": true,
-    "is_premium": true,
-    "image_path": "1612b1b689c3352.jpg",
-    "identification": {
-      "registered_number": "",
-      "registered_address": "",
-      "operation_period": "",
-      "licenses_scope": "",
-      "licenses_number": "",
-      "licenses_date": "",
-      "legal_person": "",
-      "identificate_date": null,
-      "identificate_agency": "",
-      "company_name": ""
-    },
-    "float_minimum_order_amount": 20,
-    "float_delivery_fee": 5,
-    "distance": "2121.6公里",
-    "order_lead_time": "31小时26分钟",
-    "description": "3",
-    "delivery_mode": {
-      "color": "57A9FF",
-      "id": 1,
-      "is_solid": true,
-      "text": "硅谷专送"
-    },
-    "activities": [
-      {
-        "icon_name": "减",
-        "name": "满减优惠",
-        "description": "满30减5，满60减8",
-        "icon_color": "f07373",
-        "id": 1,
-        "_id": "5a687c8d1d632b05464dbb61"
-      }
-    ],
-    "__v": 0
-  },
-  {
-    "name": "123",
-    "address": "辽宁省大连市金州区 ",
-    "id": 491,
-    "latitude": 39.17791,
-    "longitude": 122.05169,
-    "location": [
-      122.05169,
-      39.17791
-    ],
-    "phone": "12345678",
-    "category": "快餐便当/包子粥店",
-    "supports": [
-      {
-        "description": "已加入“外卖保”计划，食品安全有保障",
-        "icon_color": "999999",
-        "icon_name": "保",
-        "id": 7,
-        "name": "外卖保",
-        "_id": "5a696b071d632b05464dbd31"
-      },
-      {
-        "description": "准时必达，超时秒赔",
-        "icon_color": "57A9FF",
-        "icon_name": "准",
-        "id": 9,
-        "name": "准时达",
-        "_id": "5a696b071d632b05464dbd30"
-      },
-      {
-        "description": "该商家支持开发票，请在下单时填写好发票抬头",
-        "icon_color": "999999",
-        "icon_name": "票",
-        "id": 4,
-        "name": "开发票",
-        "_id": "5a696b071d632b05464dbd2f"
-      }
-    ],
-    "status": 1,
-    "recent_order_num": 49,
-    "rating_count": 447,
+    "platform": 0,
+    "posters": [],
+    "promotion_info": "客串出品（涉外店）新店开业！伊赛牛肉1.88元，五花肉1.88元，限时开店活动全面开启！",
     "rating": 4.7,
-    "promotion_info": "欢迎光临，用餐高峰请提前下单，谢谢",
-    "piecewise_agent_fee": {
-      "tips": "配送费约¥5"
+    "rating_count": 568,
+    "recent_order_num": 706,
+    "recommend": {
+      "is_ad": false,
+      "reason": ""
     },
-    "opening_hours": [
-      "8:30/20:30"
+    "recommend_reasons": [
+      {
+        "name": "回头客多"
+      }
     ],
-    "license": {
-      "catering_service_license_image": "",
-      "business_license_image": ""
+    "regular_customer_count": 0,
+    "scheme": "eleme://catering?restaurant_id=164384991",
+    "status": 1,
+    "support_tags": [
+      {
+        "border": "dddddd",
+        "color": "666666",
+        "icon": "4e20966ca2a516de3f02fb9c7fd1bc6dpng",
+        "text": "烧烤",
+        "type": 1
+      },
+      {
+        "border": "dddddd",
+        "color": "333333",
+        "text": "品质联盟"
+      }
+    ],
+    "supports": [],
+    "theme": {
+      "default_color": "2395ff",
+      "header_style": 0,
+      "hongbao_style": 0,
+      "price_color": "ff5339",
+      "third_tab_name": "商家",
+      "vanish_fields": []
     },
-    "is_new": true,
-    "is_premium": true,
-    "image_path": "1612bca0ebf3396.png",
-    "identification": {
-      "registered_number": "",
-      "registered_address": "",
-      "operation_period": "",
-      "licenses_scope": "",
-      "licenses_number": "",
-      "licenses_date": "",
-      "legal_person": "",
-      "identificate_date": null,
-      "identificate_agency": "",
-      "company_name": ""
-    },
-    "float_minimum_order_amount": 20,
-    "float_delivery_fee": 5,
-    "distance": "797.7公里",
-    "order_lead_time": "15小时48分钟",
+    "type": 0
+  },
+  {
+    "address": "长沙高新开发区麓谷五期长丰19栋104-02号",
+    "authentic_id": 1363684977773315,
+    "business_info": "{}",
     "description": "",
-    "delivery_mode": {
-      "color": "57A9FF",
-      "id": 1,
-      "is_solid": true,
-      "text": "硅谷专送"
-    },
-    "activities": [
+    "distance": 3142,
+    "favored": false,
+    "flavors": [
       {
-        "icon_name": "减",
-        "name": "满减优惠",
-        "description": "满30减5，满60减8",
-        "icon_color": "f07373",
-        "id": 1,
-        "_id": "5a696b071d632b05464dbd32"
+        "id": 218,
+        "name": "烧烤"
+      },
+      {
+        "id": 236,
+        "name": "小龙虾"
       }
     ],
-    "__v": 0
-  },
-  {
-    "name": "川菜馆111111111",
-    "address": "广东省深圳市宝安区留仙二路59",
-    "id": 496,
-    "latitude": 22.58295,
-    "longitude": 113.91455,
-    "location": [
-      113.91455,
-      22.58295
-    ],
-    "phone": "133333",
-    "category": "快餐便当/简餐",
-    "supports": [
-      {
-        "description": "已加入“外卖保”计划，食品安全有保障",
-        "icon_color": "999999",
-        "icon_name": "保",
-        "id": 7,
-        "name": "外卖保",
-        "_id": "5a69880a1d632b05464dbe66"
-      },
-      {
-        "description": "准时必达，超时秒赔",
-        "icon_color": "57A9FF",
-        "icon_name": "准",
-        "id": 9,
-        "name": "准时达",
-        "_id": "5a69880a1d632b05464dbe65"
-      }
-    ],
-    "status": 0,
-    "recent_order_num": 68,
-    "rating_count": 919,
-    "rating": 4.1,
-    "promotion_info": "情侣吃饭，免茶位费",
-    "piecewise_agent_fee": {
-      "tips": "配送费约¥5"
-    },
-    "opening_hours": [
-      "10:00/23:00"
-    ],
-    "license": {
-      "catering_service_license_image": "",
-      "business_license_image": ""
-    },
-    "is_new": true,
-    "is_premium": true,
-    "image_path": "1612c3b713f3438.jpg",
-    "identification": {
-      "registered_number": "",
-      "registered_address": "",
-      "operation_period": "",
-      "licenses_scope": "",
-      "licenses_number": "",
-      "licenses_date": "",
-      "legal_person": "",
-      "identificate_date": null,
-      "identificate_agency": "",
-      "company_name": ""
-    },
-    "float_minimum_order_amount": 50,
-    "float_delivery_fee": 5,
-    "distance": "2167.4公里",
-    "order_lead_time": "35小时3分钟",
-    "description": "正宗川菜",
-    "delivery_mode": {
-      "color": "57A9FF",
-      "id": 1,
-      "is_solid": true,
-      "text": "硅谷专送"
-    },
-    "activities": [
-      {
-        "icon_name": "减",
-        "name": "满减优惠",
-        "description": "满30减5，满60减8",
-        "icon_color": "f07373",
-        "id": 1,
-        "_id": "5a69880a1d632b05464dbe68"
-      },
-      {
-        "icon_name": "特",
-        "name": "优惠大酬宾",
-        "description": "情侣吃饭，免茶位费",
-        "icon_color": "EDC123",
-        "id": 2,
-        "_id": "5a69880a1d632b05464dbe67"
-      }
-    ],
-    "__v": 0
-  },
-  {
-    "name": "1313",
-    "address": "北京市通州区潞苑南大街运通花园1313号楼",
-    "id": 499,
-    "latitude": 39.9256,
-    "longitude": 116.6773,
-    "location": [
-      116.6773,
-      39.9256
-    ],
-    "phone": "13641266693",
-    "category": "快餐便当/简餐",
-    "supports": [
-      {
-        "description": "已加入“外卖保”计划，食品安全有保障",
-        "icon_color": "999999",
-        "icon_name": "保",
-        "id": 7,
-        "name": "外卖保",
-        "_id": "5a6acb3e1d632b05464dc4a0"
-      },
-      {
-        "description": "准时必达，超时秒赔",
-        "icon_color": "57A9FF",
-        "icon_name": "准",
-        "id": 9,
-        "name": "准时达",
-        "_id": "5a6acb3e1d632b05464dc49f"
-      },
-      {
-        "description": "该商家支持开发票，请在下单时填写好发票抬头",
-        "icon_color": "999999",
-        "icon_name": "票",
-        "id": 4,
-        "name": "开发票",
-        "_id": "5a6acb3e1d632b05464dc49e"
-      }
-    ],
-    "status": 0,
-    "recent_order_num": 597,
-    "rating_count": 593,
-    "rating": 4.8,
-    "promotion_info": "13213213",
-    "piecewise_agent_fee": {
-      "tips": "配送费约¥5"
-    },
-    "opening_hours": [
-      "05:30/06:30"
-    ],
-    "license": {
-      "catering_service_license_image": "1613129f6be3558.jpg",
-      "business_license_image": "1613129ee4a3557.jpg"
-    },
-    "is_new": true,
-    "is_premium": true,
-    "image_path": "161312802433555.jpg",
-    "identification": {
-      "registered_number": "",
-      "registered_address": "",
-      "operation_period": "",
-      "licenses_scope": "",
-      "licenses_number": "",
-      "licenses_date": "",
-      "legal_person": "",
-      "identificate_date": null,
-      "identificate_agency": "",
-      "company_name": ""
-    },
-    "float_minimum_order_amount": 20,
-    "float_delivery_fee": 5,
-    "distance": "42.1公里",
-    "order_lead_time": "1小时47分钟",
-    "description": "13131",
-    "delivery_mode": {
-      "color": "57A9FF",
-      "id": 1,
-      "is_solid": true,
-      "text": "硅谷专送"
-    },
-    "activities": [
-      {
-        "icon_name": "减",
-        "name": "满减优惠",
-        "description": "满30减5，满60减8",
-        "icon_color": "f07373",
-        "id": 1,
-        "_id": "5a6acb3e1d632b05464dc4a1"
-      }
-    ],
-    "__v": 0
-  },
-  {
-    "name": "618",
-    "address": "北京市昌平区霍营",
-    "id": 501,
-    "latitude": 40.08277,
-    "longitude": 116.36739,
-    "location": [
-      116.36739,
-      40.08277
-    ],
-    "phone": "18232060789",
-    "category": "快餐便当/简餐",
-    "supports": [
-      {
-        "description": "已加入“外卖保”计划，食品安全有保障",
-        "icon_color": "999999",
-        "icon_name": "保",
-        "id": 7,
-        "name": "外卖保",
-        "_id": "5a6acd3f1d632b05464dc541"
-      },
-      {
-        "description": "准时必达，超时秒赔",
-        "icon_color": "57A9FF",
-        "icon_name": "准",
-        "id": 9,
-        "name": "准时达",
-        "_id": "5a6acd3f1d632b05464dc540"
-      },
-      {
-        "description": "该商家支持开发票，请在下单时填写好发票抬头",
-        "icon_color": "999999",
-        "icon_name": "票",
-        "id": 4,
-        "name": "开发票",
-        "_id": "5a6acd3f1d632b05464dc53f"
-      }
-    ],
-    "status": 1,
-    "recent_order_num": 414,
-    "rating_count": 96,
-    "rating": 4.1,
-    "promotion_info": "618插件网",
-    "piecewise_agent_fee": {
-      "tips": "配送费约¥5"
-    },
-    "opening_hours": [
-      "06:00/11:30"
-    ],
-    "license": {
-      "catering_service_license_image": "161313145043561.jpg",
-      "business_license_image": "16131312b733560.jpg"
-    },
-    "is_new": true,
-    "is_premium": true,
-    "image_path": "1614bab1ea73974.jpg",
-    "identification": {
-      "registered_number": "",
-      "registered_address": "",
-      "operation_period": "",
-      "licenses_scope": "",
-      "licenses_number": "",
-      "licenses_date": "",
-      "legal_person": "",
-      "identificate_date": null,
-      "identificate_agency": "",
-      "company_name": ""
-    },
-    "float_minimum_order_amount": 20,
-    "float_delivery_fee": 5,
-    "distance": "2.6公里",
-    "order_lead_time": "26分钟",
-    "description": "618",
-    "delivery_mode": {
-      "color": "57A9FF",
-      "id": 1,
-      "is_solid": true,
-      "text": "硅谷专送"
-    },
-    "activities": [
-      {
-        "icon_name": "减",
-        "name": "满减优惠",
-        "description": "满30减5，满60减8",
-        "icon_color": "f07373",
-        "id": 1,
-        "_id": "5a6acd3f1d632b05464dc543"
-      },
-      {
-        "icon_name": "减",
-        "name": "满减优惠",
-        "description": "1236655",
-        "icon_color": "f07373",
-        "id": 2,
-        "_id": "5a6acd3f1d632b05464dc542"
-      }
-    ],
-    "__v": 0
-  },
-  {
-    "name": "618618",
-    "address": "上海市静安区襄阳北路17号3层",
-    "id": 502,
-    "latitude": 31.22003,
-    "longitude": 121.45476,
-    "location": [
-      121.45476,
-      31.22003
-    ],
-    "phone": "618618",
-    "category": "果蔬生鲜/水果",
-    "supports": [
-      {
-        "description": "已加入“外卖保”计划，食品安全有保障",
-        "icon_color": "999999",
-        "icon_name": "保",
-        "id": 7,
-        "name": "外卖保",
-        "_id": "5a6adb5a1d632b05464dc62a"
-      },
-      {
-        "description": "准时必达，超时秒赔",
-        "icon_color": "57A9FF",
-        "icon_name": "准",
-        "id": 9,
-        "name": "准时达",
-        "_id": "5a6adb5a1d632b05464dc629"
-      },
-      {
-        "description": "该商家支持开发票，请在下单时填写好发票抬头",
-        "icon_color": "999999",
-        "icon_name": "票",
-        "id": 4,
-        "name": "开发票",
-        "_id": "5a6adb5a1d632b05464dc628"
-      }
-    ],
-    "status": 0,
-    "recent_order_num": 957,
-    "rating_count": 527,
-    "rating": 4.7,
-    "promotion_info": "618618",
-    "piecewise_agent_fee": {
-      "tips": "配送费约¥5"
-    },
-    "opening_hours": [
-      "05:45/06:15"
-    ],
-    "license": {
-      "catering_service_license_image": "1613168204c3572.jpg",
-      "business_license_image": "161316806d63571.jpg"
-    },
-    "is_new": true,
-    "is_premium": true,
-    "image_path": "1613167dd973570.jpg",
-    "identification": {
-      "registered_number": "",
-      "registered_address": "",
-      "operation_period": "",
-      "licenses_scope": "",
-      "licenses_number": "",
-      "licenses_date": "",
-      "legal_person": "",
-      "identificate_date": null,
-      "identificate_agency": "",
-      "company_name": ""
-    },
-    "float_minimum_order_amount": 20,
-    "float_delivery_fee": 5,
-    "distance": "1195.5公里",
-    "order_lead_time": "21小时4分钟",
-    "description": "618618",
-    "delivery_mode": {
-      "color": "57A9FF",
-      "id": 1,
-      "is_solid": true,
-      "text": "硅谷专送"
-    },
-    "activities": [
-      {
-        "icon_name": "减",
-        "name": "满减优惠",
-        "description": "满30减5，满60减8",
-        "icon_color": "f07373",
-        "id": 1,
-        "_id": "5a6adb5a1d632b05464dc62b"
-      }
-    ],
-    "__v": 0
-  },
-  {
-    "name": "xx",
-    "address": "北京市海淀区颐和园路5号",
-    "id": 503,
-    "latitude": 39.99287,
-    "longitude": 116.31025,
-    "location": [
-      116.31025,
-      39.99287
-    ],
-    "phone": "11111444",
-    "category": "快餐便当/简餐",
-    "supports": [
-      {
-        "description": "已加入“外卖保”计划，食品安全有保障",
-        "icon_color": "999999",
-        "icon_name": "保",
-        "id": 7,
-        "name": "外卖保",
-        "_id": "5a6ae5d41d632b05464dc6a1"
-      },
-      {
-        "description": "准时必达，超时秒赔",
-        "icon_color": "57A9FF",
-        "icon_name": "准",
-        "id": 9,
-        "name": "准时达",
-        "_id": "5a6ae5d41d632b05464dc6a0"
-      },
-      {
-        "description": "该商家支持开发票，请在下单时填写好发票抬头",
-        "icon_color": "999999",
-        "icon_name": "票",
-        "id": 4,
-        "name": "开发票",
-        "_id": "5a6ae5d41d632b05464dc69f"
-      }
-    ],
-    "status": 1,
-    "recent_order_num": 626,
-    "rating_count": 707,
-    "rating": 4,
-    "promotion_info": "111",
-    "piecewise_agent_fee": {
-      "tips": "配送费约¥5"
-    },
-    "opening_hours": [
-      "05:30/05:45"
-    ],
-    "license": {
-      "catering_service_license_image": "",
-      "business_license_image": ""
-    },
-    "is_new": true,
-    "is_premium": true,
-    "image_path": "1613191d8bc3579.PNG",
-    "identification": {
-      "registered_number": "",
-      "registered_address": "",
-      "operation_period": "",
-      "licenses_scope": "",
-      "licenses_number": "",
-      "licenses_date": "",
-      "legal_person": "",
-      "identificate_date": null,
-      "identificate_agency": "",
-      "company_name": ""
-    },
-    "float_minimum_order_amount": 20,
-    "float_delivery_fee": 5,
-    "distance": "16.7公里",
-    "order_lead_time": "55分钟",
-    "description": "1231",
-    "delivery_mode": {
-      "color": "57A9FF",
-      "id": 1,
-      "is_solid": true,
-      "text": "硅谷专送"
-    },
-    "activities": [
-      {
-        "icon_name": "减",
-        "name": "满减优惠",
-        "description": "满30减5，满60减8",
-        "icon_color": "f07373",
-        "id": 1,
-        "_id": "5a6ae5d41d632b05464dc6a2"
-      }
-    ],
-    "__v": 0
-  },
-  {
-    "name": "3",
-    "address": "四川省成都市郫都区郫都区郫都区",
-    "id": 506,
-    "latitude": 30.73324,
-    "longitude": 103.98682,
-    "location": [
-      103.98682,
-      30.73324
-    ],
-    "phone": "434343434",
-    "category": "特色菜系/江浙菜",
-    "supports": [
-      {
-        "description": "已加入“外卖保”计划，食品安全有保障",
-        "icon_color": "999999",
-        "icon_name": "保",
-        "id": 7,
-        "name": "外卖保",
-        "_id": "5a6c3cee1d632b05464dcabb"
-      },
-      {
-        "description": "准时必达，超时秒赔",
-        "icon_color": "57A9FF",
-        "icon_name": "准",
-        "id": 9,
-        "name": "准时达",
-        "_id": "5a6c3cee1d632b05464dcaba"
-      },
-      {
-        "description": "该商家支持开发票，请在下单时填写好发票抬头",
-        "icon_color": "999999",
-        "icon_name": "票",
-        "id": 4,
-        "name": "开发票",
-        "_id": "5a6c3cee1d632b05464dcab9"
-      }
-    ],
-    "status": 1,
-    "recent_order_num": 105,
-    "rating_count": 440,
-    "rating": 4.4,
-    "promotion_info": "3434",
-    "piecewise_agent_fee": {
-      "tips": "配送费约¥4"
-    },
-    "opening_hours": [
-      "8:30/20:30"
-    ],
-    "license": {
-      "catering_service_license_image": "16136ce209f3645.jpg",
-      "business_license_image": "16136cdffad3644.jpg"
-    },
-    "is_new": true,
-    "is_premium": true,
-    "image_path": "16136ce034e3643.jpg",
-    "identification": {
-      "registered_number": "",
-      "registered_address": "",
-      "operation_period": "",
-      "licenses_scope": "",
-      "licenses_number": "",
-      "licenses_date": "",
-      "legal_person": "",
-      "identificate_date": null,
-      "identificate_agency": "",
-      "company_name": ""
-    },
-    "float_minimum_order_amount": 20,
     "float_delivery_fee": 4,
-    "distance": "1790.1公里",
-    "order_lead_time": "27小时2分钟",
-    "description": "3434",
-    "delivery_mode": {
-      "color": "57A9FF",
-      "id": 1,
-      "is_solid": true,
-      "text": "硅谷专送"
+    "float_minimum_order_amount": 38,
+    "has_story": false,
+    "id": 145284815,
+    "image_path": "42e8a7aef4e4160925f39ac9a25b8dcfjpeg",
+    "is_new": false,
+    "is_premium": false,
+    "is_stock_empty": 0,
+    "is_valid": 1,
+    "latitude": 28.20418,
+    "longitude": 112.866403,
+    "max_applied_quantity_per_order": -1,
+    "name": "熊记烧烤",
+    "next_business_time": "",
+    "only_use_poi": false,
+    "opening_hours": [
+      "17:30/03:00"
+    ],
+    "order_lead_time": 38,
+    "phone": "13687338498",
+    "piecewise_agent_fee": {
+      "description": "配送费¥4",
+      "extra_fee": 0,
+      "is_extra": false,
+      "no_subsidy_fee": "",
+      "rules": [
+        {
+          "fee": 4,
+          "price": 38
+        }
+      ],
+      "tips": "配送费¥4"
     },
-    "activities": [
-      {
-        "icon_name": "减",
-        "name": "满减优惠",
-        "description": "满30减5，满60减8",
-        "icon_color": "f07373",
-        "id": 1,
-        "_id": "5a6c3cee1d632b05464dcabc"
-      }
-    ],
-    "__v": 0
-  },
-  {
-    "name": "青岛市金拱门餐饮有限公司",
-    "address": "山东省青岛市崂山区以东40公里处",
-    "id": 508,
-    "latitude": 36.14213,
-    "longitude": 120.60168,
-    "location": [
-      120.60168,
-      36.14213
-    ],
-    "phone": "12580",
-    "category": "异国料理",
-    "supports": [
-      {
-        "description": "已加入“外卖保”计划，食品安全有保障",
-        "icon_color": "999999",
-        "icon_name": "保",
-        "id": 7,
-        "name": "外卖保",
-        "_id": "5a6d41041d632b05464dcbf7"
-      },
-      {
-        "description": "准时必达，超时秒赔",
-        "icon_color": "57A9FF",
-        "icon_name": "准",
-        "id": 9,
-        "name": "准时达",
-        "_id": "5a6d41041d632b05464dcbf6"
-      },
-      {
-        "description": "该商家支持开发票，请在下单时填写好发票抬头",
-        "icon_color": "999999",
-        "icon_name": "票",
-        "id": 4,
-        "name": "开发票",
-        "_id": "5a6d41041d632b05464dcbf5"
-      }
-    ],
+    "platform": 0,
+    "posters": [],
+    "promotion_info": "你好，亲爱的宝贝们小店主营湘西小串哦！新店优惠多多拆扣多多，最主要的是专业打包可以保温两小时，冬天再也不怕吃不到热乎乎的烧烤了，反心下单吧！",
+    "rating": 4.5,
+    "rating_count": 390,
+    "recent_order_num": 818,
+    "recommend": {
+      "is_ad": false,
+      "reason": ""
+    },
+    "recommend_reasons": [],
+    "regular_customer_count": 0,
+    "scheme": "eleme://catering?restaurant_id=145284815",
     "status": 1,
-    "recent_order_num": 596,
-    "rating_count": 370,
-    "rating": 4.6,
-    "promotion_info": "吃鸡",
-    "piecewise_agent_fee": {
-      "tips": "配送费约¥5"
-    },
-    "opening_hours": [
-      "11:30/15:45"
-    ],
-    "license": {
-      "catering_service_license_image": "1613ac5ecbb3662.jpg",
-      "business_license_image": "1613ac5d99f3661.jpg"
-    },
-    "is_new": true,
-    "is_premium": true,
-    "image_path": "1613ac5ba6b3660.jpg",
-    "identification": {
-      "registered_number": "",
-      "registered_address": "",
-      "operation_period": "",
-      "licenses_scope": "",
-      "licenses_number": "",
-      "licenses_date": "",
-      "legal_person": "",
-      "identificate_date": null,
-      "identificate_agency": "",
-      "company_name": ""
-    },
-    "float_minimum_order_amount": 20,
-    "float_delivery_fee": 5,
-    "distance": "662公里",
-    "order_lead_time": "11小时23分钟",
-    "description": "请拨打我们的电话",
-    "delivery_mode": {
-      "color": "57A9FF",
-      "id": 1,
-      "is_solid": true,
-      "text": "硅谷专送"
-    },
-    "activities": [
+    "support_tags": [
       {
-        "icon_name": "特",
-        "name": "优惠大酬宾",
-        "description": "傻逼的神臂斗士八度空间阿萨德",
-        "icon_color": "EDC123",
-        "id": 1,
-        "_id": "5a6d41041d632b05464dcbf8"
+        "border": "dddddd",
+        "color": "666666",
+        "icon": "4e20966ca2a516de3f02fb9c7fd1bc6dpng",
+        "text": "烧烤",
+        "type": 1
+      },
+      {
+        "border": "dddddd",
+        "color": "333333",
+        "text": "品质联盟"
       }
     ],
-    "__v": 0
-  },
-  {
-    "name": "广州大学城",
-    "address": "广东省广州市番禺区新造镇小谷围",
-    "id": 510,
-    "latitude": 23.05013,
-    "longitude": 113.38986,
-    "location": [
-      113.38986,
-      23.05013
-    ],
-    "phone": "q110",
-    "category": "快餐便当/米粉面馆",
     "supports": [
       {
-        "description": "已加入“外卖保”计划，食品安全有保障",
+        "border": "90dddddd",
+        "description": "该商户食品安全已由国泰产险承担，食品安全有保障",
         "icon_color": "999999",
         "icon_name": "保",
         "id": 7,
-        "name": "外卖保",
-        "_id": "5a6dbe431d632b05464dccaa"
-      },
-      {
-        "description": "准时必达，超时秒赔",
-        "icon_color": "57A9FF",
-        "icon_name": "准",
-        "id": 9,
-        "name": "准时达",
-        "_id": "5a6dbe431d632b05464dcca9"
-      },
-      {
-        "description": "该商家支持开发票，请在下单时填写好发票抬头",
-        "icon_color": "999999",
-        "icon_name": "票",
-        "id": 4,
-        "name": "开发票",
-        "_id": "5a6dbe431d632b05464dcca8"
+        "name": "食安保",
+        "text_color": "666666",
+        "two_characters_icon_name": "保险"
       }
     ],
-    "status": 0,
-    "recent_order_num": 965,
-    "rating_count": 894,
-    "rating": 4.6,
-    "promotion_info": "黄焖鸡米饭",
-    "piecewise_agent_fee": {
-      "tips": "配送费约¥5"
+    "theme": {
+      "default_color": "2395ff",
+      "header_style": 0,
+      "hongbao_style": 0,
+      "price_color": "ff5339",
+      "third_tab_name": "商家",
+      "vanish_fields": []
     },
-    "opening_hours": [
-      "8:30/20:30"
-    ],
-    "license": {
-      "catering_service_license_image": "1613caf47de3679.png",
-      "business_license_image": "1613caf430f3678.png"
-    },
-    "is_new": true,
-    "is_premium": true,
-    "image_path": "1613caf14ab3677.png",
-    "identification": {
-      "registered_number": "",
-      "registered_address": "",
-      "operation_period": "",
-      "licenses_scope": "",
-      "licenses_number": "",
-      "licenses_date": "",
-      "legal_person": "",
-      "identificate_date": null,
-      "identificate_agency": "",
-      "company_name": ""
-    },
-    "float_minimum_order_amount": 20,
-    "float_delivery_fee": 5,
-    "distance": "2135.3公里",
-    "order_lead_time": "32小时17分钟",
-    "description": "黄焖鸡ww",
-    "delivery_mode": {
-      "color": "57A9FF",
-      "id": 1,
-      "is_solid": true,
-      "text": "硅谷专送"
-    },
-    "activities": [
-      {
-        "icon_name": "减",
-        "name": "满减优惠",
-        "description": "满30减5，满60减8",
-        "icon_color": "f07373",
-        "id": 1,
-        "_id": "5a6dbe431d632b05464dccab"
-      }
-    ],
-    "__v": 0
+    "type": 0
   },
   {
-    "name": "广州大学城黄焖鸡",
-    "address": "广东省广州市番禺区大学城外环西路230号",
-    "id": 511,
-    "latitude": 23.04073,
-    "longitude": 113.37072,
-    "location": [
-      113.37072,
-      23.04073
-    ],
-    "phone": "21107888797",
-    "category": "快餐便当/简餐",
-    "supports": [
+    "address": "长沙高新开发区枫林三路608号麓谷公馆（涉外花园二期）商业裙楼1075号",
+    "authentic_id": 6383644998533757,
+    "business_info": "{}",
+    "description": "台湾的特色小吃很出名，鸡排更是具有代表性的美食。正新鸡排，来自台湾，正宗台湾鸡排，为大陆消费者带来难以低档的美味。正新鸡排，源自台中经典小吃，由数十种辛香料细腻腌渍，沾上中药调味独特配制而成的调味粉，真心鸡排，肉嫩外酥，香气十足。",
+    "distance": 2092,
+    "favored": false,
+    "flavors": [
       {
-        "description": "已加入“外卖保”计划，食品安全有保障",
-        "icon_color": "999999",
-        "icon_name": "保",
-        "id": 7,
-        "name": "外卖保",
-        "_id": "5a6dbe8b1d632b05464dccd3"
+        "id": 234,
+        "name": "炸鸡炸串"
       },
       {
-        "description": "准时必达，超时秒赔",
-        "icon_color": "57A9FF",
-        "icon_name": "准",
-        "id": 9,
-        "name": "准时达",
-        "_id": "5a6dbe8b1d632b05464dccd2"
-      },
-      {
-        "description": "该商家支持开发票，请在下单时填写好发票抬头",
-        "icon_color": "999999",
-        "icon_name": "票",
-        "id": 4,
-        "name": "开发票",
-        "_id": "5a6dbe8b1d632b05464dccd1"
+        "id": 240,
+        "name": "奶茶果汁"
       }
     ],
-    "status": 1,
-    "recent_order_num": 269,
-    "rating_count": 177,
-    "rating": 4.8,
-    "promotion_info": "好吃的黄焖鸡",
-    "piecewise_agent_fee": {
-      "tips": "配送费约¥5"
-    },
-    "opening_hours": [
-      "8:30/20:30"
-    ],
-    "license": {
-      "catering_service_license_image": "1613cb057073682.png",
-      "business_license_image": "1613cb054b43681.png"
-    },
-    "is_new": true,
+    "float_delivery_fee": 3,
+    "float_minimum_order_amount": 30,
+    "has_story": false,
+    "id": 156188657,
+    "image_path": "358a93fd92d242a7352e9fdb64b7d2eapng",
+    "is_new": false,
     "is_premium": true,
-    "image_path": "1614efc2f693987.jpg",
-    "identification": {
-      "registered_number": "",
-      "registered_address": "",
-      "operation_period": "",
-      "licenses_scope": "",
-      "licenses_number": "",
-      "licenses_date": "",
-      "legal_person": "",
-      "identificate_date": null,
-      "identificate_agency": "",
-      "company_name": ""
-    },
-    "float_minimum_order_amount": 20,
-    "float_delivery_fee": 5,
-    "distance": "2136.6公里",
-    "order_lead_time": "32小时21分钟",
-    "description": "黄焖鸡",
-    "delivery_mode": {
-      "color": "57A9FF",
-      "id": 1,
-      "is_solid": true,
-      "text": "硅谷专送"
-    },
-    "activities": [
-      {
-        "icon_name": "减",
-        "name": "满减优惠",
-        "description": "满30减5，满60减8",
-        "icon_color": "f07373",
-        "id": 1,
-        "_id": "5a6dbe8b1d632b05464dccd4"
-      }
-    ],
-    "__v": 0
-  },
-  {
-    "name": "蔡林记",
-    "address": "湖北省武汉市东西湖区 ",
-    "id": 512,
-    "latitude": 30.64141,
-    "longitude": 114.04684,
-    "location": [
-      114.04684,
-      30.64141
-    ],
-    "phone": "15527091536",
-    "category": "快餐便当/盖浇饭",
-    "supports": [
-      {
-        "description": "已加入“外卖保”计划，食品安全有保障",
-        "icon_color": "999999",
-        "icon_name": "保",
-        "id": 7,
-        "name": "外卖保",
-        "_id": "5a6e87c01d632b05464dce5e"
-      },
-      {
-        "description": "准时必达，超时秒赔",
-        "icon_color": "57A9FF",
-        "icon_name": "准",
-        "id": 9,
-        "name": "准时达",
-        "_id": "5a6e87c01d632b05464dce5d"
-      },
-      {
-        "description": "该商家支持开发票，请在下单时填写好发票抬头",
-        "icon_color": "999999",
-        "icon_name": "票",
-        "id": 4,
-        "name": "开发票",
-        "_id": "5a6e87c01d632b05464dce5c"
-      }
-    ],
-    "status": 1,
-    "recent_order_num": 236,
-    "rating_count": 370,
-    "rating": 4,
-    "promotion_info": "111",
-    "piecewise_agent_fee": {
-      "tips": "配送费约¥5"
-    },
+    "is_stock_empty": 0,
+    "is_valid": 1,
+    "latitude": 28.197928,
+    "longitude": 112.882624,
+    "max_applied_quantity_per_order": -1,
+    "name": "正新鸡排(罗马广场店)",
+    "next_business_time": "",
+    "only_use_poi": false,
     "opening_hours": [
-      "05:45/11:15"
+      "10:00/23:05"
     ],
-    "license": {
-      "catering_service_license_image": "",
-      "business_license_image": ""
-    },
-    "is_new": true,
-    "is_premium": true,
-    "image_path": "1613fc23d793695.png",
-    "identification": {
-      "registered_number": "",
-      "registered_address": "",
-      "operation_period": "",
-      "licenses_scope": "",
-      "licenses_number": "",
-      "licenses_date": "",
-      "legal_person": "",
-      "identificate_date": null,
-      "identificate_agency": "",
-      "company_name": ""
-    },
-    "float_minimum_order_amount": 20,
-    "float_delivery_fee": 5,
-    "distance": "1162.6公里",
-    "order_lead_time": "19小时1分钟",
-    "description": "111",
-    "delivery_mode": {
-      "color": "57A9FF",
-      "id": 1,
-      "is_solid": true,
-      "text": "硅谷专送"
-    },
-    "activities": [],
-    "__v": 0
-  },
-  {
-    "name": "11",
-    "address": "山东省青岛市崂山区第十一中学",
-    "id": 514,
-    "latitude": 36.22215,
-    "longitude": 120.5297,
-    "location": [
-      120.5297,
-      36.22215
-    ],
-    "phone": "11111",
-    "category": "快餐便当/简餐",
-    "supports": [
-      {
-        "description": "已加入“外卖保”计划，食品安全有保障",
-        "icon_color": "999999",
-        "icon_name": "保",
-        "id": 7,
-        "name": "外卖保",
-        "_id": "5a6e8ca81d632b05464dcea4"
-      },
-      {
-        "description": "准时必达，超时秒赔",
-        "icon_color": "57A9FF",
-        "icon_name": "准",
-        "id": 9,
-        "name": "准时达",
-        "_id": "5a6e8ca81d632b05464dcea3"
-      },
-      {
-        "description": "该商家支持开发票，请在下单时填写好发票抬头",
-        "icon_color": "999999",
-        "icon_name": "票",
-        "id": 4,
-        "name": "开发票",
-        "_id": "5a6e8ca81d632b05464dcea2"
-      }
-    ],
-    "status": 0,
-    "recent_order_num": 425,
-    "rating_count": 891,
-    "rating": 4.4,
-    "promotion_info": "111",
+    "order_lead_time": 29,
+    "phone": "18142657235",
     "piecewise_agent_fee": {
-      "tips": "配送费约¥5"
+      "description": "配送费¥3",
+      "extra_fee": 0,
+      "is_extra": false,
+      "no_subsidy_fee": "",
+      "rules": [
+        {
+          "fee": 3,
+          "price": 30
+        }
+      ],
+      "tips": "配送费¥3"
     },
-    "opening_hours": [
-      "8:30/20:30"
-    ],
-    "license": {
-      "catering_service_license_image": "1613fd562343700.jpg",
-      "business_license_image": "1613fd56eba3699.png"
-    },
-    "is_new": true,
-    "is_premium": true,
-    "image_path": "1613fd55ba03698.png",
-    "identification": {
-      "registered_number": "",
-      "registered_address": "",
-      "operation_period": "",
-      "licenses_scope": "",
-      "licenses_number": "",
-      "licenses_date": "",
-      "legal_person": "",
-      "identificate_date": null,
-      "identificate_agency": "",
-      "company_name": ""
-    },
-    "float_minimum_order_amount": 20,
-    "float_delivery_fee": 5,
-    "distance": "645.7公里",
-    "order_lead_time": "11小时2分钟",
-    "description": "111",
-    "delivery_mode": {
-      "color": "57A9FF",
-      "id": 1,
-      "is_solid": true,
-      "text": "硅谷专送"
-    },
-    "activities": [
-      {
-        "icon_name": "减",
-        "name": "满减优惠",
-        "description": "满30减5，满60减8",
-        "icon_color": "f07373",
-        "id": 1,
-        "_id": "5a6e8ca81d632b05464dcea6"
-      },
-      {
-        "icon_name": "新",
-        "name": "新用户立减",
-        "description": "111",
-        "icon_color": "70bc46",
-        "id": 2,
-        "_id": "5a6e8ca81d632b05464dcea5"
-      }
-    ],
-    "__v": 0
-  },
-  {
-    "name": "qqq",
-    "address": "湖北省武汉市黄陂区天河国际机场盘龙城巨龙大道196号",
-    "id": 516,
-    "latitude": 30.71401,
-    "longitude": 114.24966,
-    "location": [
-      114.24966,
-      30.71401
-    ],
-    "phone": "11111",
-    "category": "异国料理/披萨意面",
-    "supports": [
-      {
-        "description": "已加入“外卖保”计划，食品安全有保障",
-        "icon_color": "999999",
-        "icon_name": "保",
-        "id": 7,
-        "name": "外卖保",
-        "_id": "5a6e8f561d632b05464dcedd"
-      },
-      {
-        "description": "准时必达，超时秒赔",
-        "icon_color": "57A9FF",
-        "icon_name": "准",
-        "id": 9,
-        "name": "准时达",
-        "_id": "5a6e8f561d632b05464dcedc"
-      },
-      {
-        "description": "该商家支持开发票，请在下单时填写好发票抬头",
-        "icon_color": "999999",
-        "icon_name": "票",
-        "id": 4,
-        "name": "开发票",
-        "_id": "5a6e8f561d632b05464dcedb"
-      }
-    ],
-    "status": 0,
-    "recent_order_num": 742,
-    "rating_count": 458,
-    "rating": 4.1,
-    "promotion_info": "欢迎光临，用餐高峰请提前下单，谢谢",
-    "piecewise_agent_fee": {
-      "tips": "配送费约¥12"
-    },
-    "opening_hours": [
-      "06:30/06:45"
-    ],
-    "license": {
-      "catering_service_license_image": "",
-      "business_license_image": ""
-    },
-    "is_new": true,
-    "is_premium": true,
-    "image_path": "1613fdfe1773703.png",
-    "identification": {
-      "registered_number": "",
-      "registered_address": "",
-      "operation_period": "",
-      "licenses_scope": "",
-      "licenses_number": "",
-      "licenses_date": "",
-      "legal_person": "",
-      "identificate_date": null,
-      "identificate_agency": "",
-      "company_name": ""
-    },
-    "float_minimum_order_amount": 20,
-    "float_delivery_fee": 12,
-    "distance": "1143公里",
-    "order_lead_time": "18小时55分钟",
-    "description": "111",
-    "delivery_mode": {
-      "color": "57A9FF",
-      "id": 1,
-      "is_solid": true,
-      "text": "硅谷专送"
-    },
-    "activities": [
-      {
-        "icon_name": "减",
-        "name": "满减优惠",
-        "description": "满30减5，满60减8",
-        "icon_color": "f07373",
-        "id": 1,
-        "_id": "5a6e8f561d632b05464dcede"
-      }
-    ],
-    "__v": 0
-  },
-  {
-    "name": "天下食谱",
-    "address": "上海市黄浦区巨鹿路304-1",
-    "id": 518,
-    "latitude": 31.22299,
-    "longitude": 121.45999,
-    "location": [
-      121.45999,
-      31.22299
-    ],
-    "phone": "666",
-    "category": "快餐便当/简餐",
-    "supports": [
-      {
-        "description": "已加入“外卖保”计划，食品安全有保障",
-        "icon_color": "999999",
-        "icon_name": "保",
-        "id": 7,
-        "name": "外卖保",
-        "_id": "5a6e99741d632b05464dcf38"
-      },
-      {
-        "description": "准时必达，超时秒赔",
-        "icon_color": "57A9FF",
-        "icon_name": "准",
-        "id": 9,
-        "name": "准时达",
-        "_id": "5a6e99741d632b05464dcf37"
-      },
-      {
-        "description": "该商家支持开发票，请在下单时填写好发票抬头",
-        "icon_color": "999999",
-        "icon_name": "票",
-        "id": 4,
-        "name": "开发票",
-        "_id": "5a6e99741d632b05464dcf36"
-      }
-    ],
-    "status": 1,
-    "recent_order_num": 867,
-    "rating_count": 916,
+    "platform": 0,
+    "posters": [],
+    "promotion_info": "买鸡排送饮料活动已开启！！！买鸡排就送饮料一杯",
     "rating": 4.7,
-    "promotion_info": "sdafsdf",
-    "piecewise_agent_fee": {
-      "tips": "配送费约¥5"
+    "rating_count": 247,
+    "recent_order_num": 671,
+    "recommend": {
+      "is_ad": false,
+      "reason": ""
     },
-    "opening_hours": [
-      "06:30/22:45"
-    ],
-    "license": {
-      "catering_service_license_image": "161400760ee3715.jpg",
-      "business_license_image": "16140074a273714.jpg"
-    },
-    "is_new": true,
-    "is_premium": true,
-    "image_path": "1614007170f3713.jpg",
-    "identification": {
-      "registered_number": "",
-      "registered_address": "",
-      "operation_period": "",
-      "licenses_scope": "",
-      "licenses_number": "",
-      "licenses_date": "",
-      "legal_person": "",
-      "identificate_date": null,
-      "identificate_agency": "",
-      "company_name": ""
-    },
-    "float_minimum_order_amount": 20,
-    "float_delivery_fee": 5,
-    "distance": "1194.9公里",
-    "order_lead_time": "21小时1分钟",
-    "description": "asdfsda",
-    "delivery_mode": {
-      "color": "57A9FF",
-      "id": 1,
-      "is_solid": true,
-      "text": "硅谷专送"
-    },
-    "activities": [
+    "recommend_reasons": [
       {
-        "icon_name": "减",
-        "name": "满减优惠",
-        "description": "满30减5，满60减8",
-        "icon_color": "f07373",
-        "id": 1,
-        "_id": "5a6e99741d632b05464dcf39"
+        "name": "回头客多"
+      },
+      {
+        "name": "配送飞快"
       }
     ],
-    "__v": 0
+    "regular_customer_count": 0,
+    "scheme": "eleme://catering?restaurant_id=156188657",
+    "status": 1,
+    "support_tags": [
+      {
+        "border": "dddddd",
+        "color": "666666",
+        "icon": "4e20966ca2a516de3f02fb9c7fd1bc6dpng",
+        "text": "炸鸡炸串",
+        "type": 1
+      },
+      {
+        "border": "dddddd",
+        "color": "333333",
+        "text": "品质联盟"
+      }
+    ],
+    "supports": [],
+    "theme": {
+      "default_color": "2395ff",
+      "header_style": 0,
+      "hongbao_style": 0,
+      "price_color": "ff5339",
+      "third_tab_name": "商家",
+      "vanish_fields": []
+    },
+    "type": 0
+  },
+  {
+    "address": "长沙市岳麓区望城坡街道商贸城A-2栋22缝三里垅12栋117号一楼门面",
+    "authentic_id": 2373644998042456,
+    "bidding": "{\"core\":{\"index\":4,\"extraInfo\":\"{\\\"bidding\\\":\\\"{}\\\",\\\"rankId\\\":\\\"15597d7b44ae4fa5b6c580a6f65b608f\\\",\\\"rankTime\\\":\\\"1538399941\\\",\\\"cityId\\\":\\\"21\\\"}\",\"target\":{\"restaurantId\":166113556,\"weight\":110,\"probability\":0.17299999296665192},\"come_from\":1,\"next\":{\"restaurantId\":151693417,\"weight\":80,\"probability\":0.21398000419139862}}}",
+    "business_info": "{}",
+    "description": "",
+    "distance": 2878,
+    "favored": false,
+    "flavors": [
+      {
+        "id": 234,
+        "name": "炸鸡炸串"
+      },
+      {
+        "id": 265,
+        "name": "简餐"
+      }
+    ],
+    "float_delivery_fee": 3.6,
+    "float_minimum_order_amount": 20,
+    "has_story": false,
+    "id": 166113556,
+    "image_path": "72cb8f605c6ae8080e052b0abdd2e945png",
+    "is_new": false,
+    "is_premium": false,
+    "is_stock_empty": 0,
+    "is_valid": 1,
+    "latitude": 28.212142,
+    "longitude": 112.912714,
+    "max_applied_quantity_per_order": -1,
+    "name": "叫了只炸鸡(西中心店)",
+    "next_business_time": "",
+    "only_use_poi": false,
+    "opening_hours": [
+      "09:00/06:00"
+    ],
+    "order_lead_time": 35,
+    "phone": "13723888378",
+    "piecewise_agent_fee": {
+      "description": "夜间配送费¥3.6",
+      "extra_fee": 0.6,
+      "is_extra": true,
+      "no_subsidy_fee": "¥5.6",
+      "rules": [
+        {
+          "fee": 3.6,
+          "price": 20
+        }
+      ],
+      "tips": "夜间配送费¥3.6"
+    },
+    "platform": 0,
+    "posters": [],
+    "promotion_info": "恭贺叫了只鸡汽车西站店盛大开业！全场半价吃鸡，一毛钱小可乐免费抢，每天前十名买鸡的顾客送秘制小鸡腿一个！本店宗旨：秉承合理售价，合理利润，高效服务！重点是做好炸鸡！做好吃的炸鸡！做让消费者满意的鸡！全国加盟热线400-606-2556",
+    "rating": 4.8,
+    "rating_count": 1364,
+    "recent_order_num": 2913,
+    "recommend": {
+      "image_hash": "731111f3f9379e772eedf4855beae8a1jpeg",
+      "is_ad": true,
+      "reason": "广告",
+      "track": "{\"rankType\":\"8\"}"
+    },
+    "recommend_reasons": [
+      {
+        "name": "味道超赞"
+      },
+      {
+        "name": "回头客多"
+      }
+    ],
+    "regular_customer_count": 0,
+    "scheme": "eleme://catering?restaurant_id=166113556",
+    "status": 1,
+    "support_tags": [
+      {
+        "border": "dddddd",
+        "color": "666666",
+        "icon": "4e20966ca2a516de3f02fb9c7fd1bc6dpng",
+        "text": "炸鸡炸串",
+        "type": 1
+      },
+      {
+        "border": "dddddd",
+        "color": "333333",
+        "text": "品质联盟"
+      }
+    ],
+    "supports": [
+      {
+        "border": "90dddddd",
+        "description": "该商户食品安全已由国泰产险承担，食品安全有保障",
+        "icon_color": "999999",
+        "icon_name": "保",
+        "id": 7,
+        "name": "食安保",
+        "text_color": "666666",
+        "two_characters_icon_name": "保险"
+      }
+    ],
+    "theme": {
+      "default_color": "2395ff",
+      "header_style": 0,
+      "hongbao_style": 0,
+      "price_color": "ff5339",
+      "third_tab_name": "商家",
+      "vanish_fields": []
+    },
+    "type": 0
+  },
+  {
+    "address": "湖南省长沙市岳麓区环湖路98号中建梅澜坊8-1001号铺位",
+    "authentic_id": 5333694994834956,
+    "business_info": "{}",
+    "description": "麦当劳（环湖路餐厅）",
+    "distance": 2743,
+    "favored": false,
+    "flavors": [
+      {
+        "id": 212,
+        "name": "汉堡"
+      },
+      {
+        "id": 234,
+        "name": "炸鸡炸串"
+      }
+    ],
+    "float_delivery_fee": 8,
+    "float_minimum_order_amount": 0,
+    "folding_restaurant_brand": "麦当劳",
+    "folding_restaurants": [
+      {
+        "distance": 3113,
+        "id": 1138774,
+        "name": "长沙麦当劳玉兰路餐厅",
+        "order_lead_time": 39,
+        "scheme": "eleme://catering?restaurant_id=1138774",
+        "type": 0
+      }
+    ],
+    "has_story": false,
+    "id": 161480356,
+    "image_path": "821b10b9f10f287e7998d79e01e84ba6png",
+    "is_new": false,
+    "is_premium": true,
+    "is_stock_empty": 0,
+    "is_valid": 1,
+    "latitude": 28.19204,
+    "longitude": 112.89864,
+    "max_applied_quantity_per_order": -1,
+    "name": "麦当劳(长沙梅澜坊餐厅)",
+    "next_business_time": "",
+    "only_use_poi": false,
+    "opening_hours": [
+      "10:30/23:55"
+    ],
+    "order_lead_time": 43,
+    "phone": "0731-89715935 0731-89715362",
+    "piecewise_agent_fee": {
+      "description": "配送费¥8",
+      "extra_fee": 0,
+      "is_extra": false,
+      "no_subsidy_fee": "",
+      "rules": [
+        {
+          "fee": 8,
+          "price": 0
+        }
+      ],
+      "tips": "配送费¥8"
+    },
+    "platform": 0,
+    "posters": [],
+    "promotion_info": "提醒：因车辆不允许入涉外学院内，只能门口自取，望理解与海涵，中午高峰建议提前预订，感谢您一直以来对麦当劳的支持！",
+    "rating": 4.7,
+    "rating_count": 330,
+    "recent_order_num": 1027,
+    "recommend": {
+      "is_ad": false,
+      "reason": ""
+    },
+    "recommend_reasons": [
+      {
+        "name": "回头客多"
+      }
+    ],
+    "regular_customer_count": 0,
+    "scheme": "eleme://catering?restaurant_id=161480356",
+    "status": 1,
+    "support_tags": [
+      {
+        "border": "dddddd",
+        "color": "666666",
+        "icon": "4e20966ca2a516de3f02fb9c7fd1bc6dpng",
+        "text": "汉堡",
+        "type": 1
+      }
+    ],
+    "supports": [],
+    "theme": {
+      "default_color": "2395ff",
+      "header_style": 0,
+      "hongbao_style": 0,
+      "price_color": "ff5339",
+      "third_tab_name": "商家",
+      "vanish_fields": []
+    },
+    "type": 0
+  },
+  {
+    "address": "长沙市高新开发区麓谷五期东塘安置小区10栋103号",
+    "authentic_id": 5323604995015717,
+    "bidding": "{\"core\":{\"index\":6,\"extraInfo\":\"{\\\"bidding\\\":\\\"{}\\\",\\\"rankId\\\":\\\"15597d7b44ae4fa5b6c580a6f65b608f\\\",\\\"rankTime\\\":\\\"1538399941\\\",\\\"cityId\\\":\\\"21\\\"}\",\"target\":{\"restaurantId\":151693417,\"weight\":80,\"probability\":0.21398000419139862},\"come_from\":1,\"next\":{\"restaurantId\":233830,\"weight\":200,\"probability\":0.07700999826192856}}}",
+    "business_info": "{}",
+    "description": "最近饿了么上出现了很多同名的店铺，请大家认准品牌，杜绝假货，以免给您的用餐带来不便。",
+    "distance": 2899,
+    "favored": false,
+    "flavors": [
+      {
+        "id": 234,
+        "name": "炸鸡炸串"
+      },
+      {
+        "id": 212,
+        "name": "汉堡"
+      }
+    ],
+    "float_delivery_fee": 2.6,
+    "float_minimum_order_amount": 15,
+    "has_story": false,
+    "id": 151693417,
+    "image_path": "dccbf55200c8df0b0abc02c89698a1dbjpeg",
+    "is_new": false,
+    "is_premium": false,
+    "is_stock_empty": 0,
+    "is_valid": 1,
+    "latitude": 28.203326,
+    "longitude": 112.868664,
+    "max_applied_quantity_per_order": -1,
+    "name": "叫了只炸鸡(长沙店)",
+    "next_business_time": "",
+    "only_use_poi": false,
+    "opening_hours": [
+      "00:00/24:00"
+    ],
+    "order_lead_time": 43,
+    "phone": "13207482807 15121164189",
+    "piecewise_agent_fee": {
+      "description": "夜间配送费¥2.6",
+      "extra_fee": 1.1,
+      "is_extra": true,
+      "no_subsidy_fee": "¥5.1",
+      "rules": [
+        {
+          "fee": 2.6,
+          "price": 15
+        }
+      ],
+      "tips": "夜间配送费¥2.6"
+    },
+    "platform": 0,
+    "posters": [],
+    "promotion_info": "一家专门做炸鸡的店。",
+    "rating": 4.7,
+    "rating_count": 1210,
+    "recent_order_num": 3975,
+    "recommend": {
+      "image_hash": "731111f3f9379e772eedf4855beae8a1jpeg",
+      "is_ad": true,
+      "reason": "广告",
+      "track": "{\"rankType\":\"8\"}"
+    },
+    "recommend_reasons": [
+      {
+        "name": "味道超赞"
+      },
+      {
+        "name": "回头客多"
+      }
+    ],
+    "regular_customer_count": 0,
+    "scheme": "eleme://catering?restaurant_id=151693417",
+    "status": 1,
+    "support_tags": [
+      {
+        "border": "dddddd",
+        "color": "666666",
+        "icon": "4e20966ca2a516de3f02fb9c7fd1bc6dpng",
+        "text": "炸鸡炸串",
+        "type": 1
+      }
+    ],
+    "supports": [
+      {
+        "border": "90dddddd",
+        "description": "该商户食品安全已由国泰产险承担，食品安全有保障",
+        "icon_color": "999999",
+        "icon_name": "保",
+        "id": 7,
+        "name": "食安保",
+        "text_color": "666666",
+        "two_characters_icon_name": "保险"
+      }
+    ],
+    "theme": {
+      "default_color": "2395ff",
+      "header_style": 0,
+      "hongbao_style": 0,
+      "price_color": "ff5339",
+      "third_tab_name": "商家",
+      "vanish_fields": []
+    },
+    "type": 0
+  },
+  {
+    "address": "长沙高新开发区麓谷五期一师安置小区B11栋101号",
+    "authentic_id": 8353654995175381,
+    "business_info": "{}",
+    "description": "",
+    "distance": 2866,
+    "favored": false,
+    "flavors": [
+      {
+        "id": 218,
+        "name": "烧烤"
+      },
+      {
+        "id": 265,
+        "name": "简餐"
+      }
+    ],
+    "float_delivery_fee": 5.6,
+    "float_minimum_order_amount": 20,
+    "has_story": false,
+    "id": 166038181,
+    "image_path": "5cb0c52de6d8ba26d39a5750e236e0d2png",
+    "is_new": false,
+    "is_premium": false,
+    "is_stock_empty": 0,
+    "is_valid": 1,
+    "latitude": 28.201816,
+    "longitude": 112.869586,
+    "max_applied_quantity_per_order": -1,
+    "name": "和财记油炸社（涉外店）",
+    "next_business_time": "",
+    "only_use_poi": false,
+    "opening_hours": [
+      "17:00/02:00"
+    ],
+    "order_lead_time": 39,
+    "phone": "18175145358",
+    "piecewise_agent_fee": {
+      "description": "夜间配送费¥5.6",
+      "extra_fee": 2.6,
+      "is_extra": true,
+      "no_subsidy_fee": "",
+      "rules": [
+        {
+          "fee": 5.6,
+          "price": 20
+        }
+      ],
+      "tips": "夜间配送费¥5.6"
+    },
+    "platform": 0,
+    "posters": [],
+    "promotion_info": "",
+    "rating": 4.8,
+    "rating_count": 447,
+    "recent_order_num": 440,
+    "recommend": {
+      "is_ad": false,
+      "reason": ""
+    },
+    "recommend_reasons": [],
+    "regular_customer_count": 0,
+    "scheme": "eleme://catering?restaurant_id=166038181",
+    "status": 1,
+    "support_tags": [
+      {
+        "border": "dddddd",
+        "color": "666666",
+        "icon": "4e20966ca2a516de3f02fb9c7fd1bc6dpng",
+        "text": "烧烤",
+        "type": 1
+      }
+    ],
+    "supports": [
+      {
+        "border": "90dddddd",
+        "description": "该商户食品安全已由国泰产险承担，食品安全有保障",
+        "icon_color": "999999",
+        "icon_name": "保",
+        "id": 7,
+        "name": "食安保",
+        "text_color": "666666",
+        "two_characters_icon_name": "保险"
+      }
+    ],
+    "theme": {
+      "default_color": "2395ff",
+      "header_style": 0,
+      "hongbao_style": 0,
+      "price_color": "ff5339",
+      "third_tab_name": "商家",
+      "vanish_fields": []
+    },
+    "type": 0
+  },
+  {
+    "address": "长沙市岳麓区西湖街道裕民小区6栋2门东头1楼",
+    "authentic_id": 4353624976827530,
+    "bidding": "{\"core\":{\"index\":8,\"extraInfo\":\"{\\\"bidding\\\":\\\"{}\\\",\\\"rankId\\\":\\\"15597d7b44ae4fa5b6c580a6f65b608f\\\",\\\"rankTime\\\":\\\"1538399941\\\",\\\"cityId\\\":\\\"21\\\"}\",\"target\":{\"restaurantId\":233830,\"weight\":200,\"probability\":0.07700999826192856},\"come_from\":1,\"next\":{\"restaurantId\":150992932,\"weight\":70,\"probability\":0.18859000504016876}}}",
+    "business_info": "{}",
+    "description": "经营各类烧烤，特色虾尾，各式精美小炒·海鲜·炒粉·炒饭。湖南特色火锅",
+    "distance": 4992,
+    "favored": false,
+    "flavors": [
+      {
+        "id": 218,
+        "name": "烧烤"
+      },
+      {
+        "id": 236,
+        "name": "小龙虾"
+      }
+    ],
+    "float_delivery_fee": 6,
+    "float_minimum_order_amount": 30,
+    "has_story": false,
+    "id": 233830,
+    "image_path": "5ef3ee713470ff2a19728a372f1adc3cpng",
+    "is_new": false,
+    "is_premium": false,
+    "is_stock_empty": 0,
+    "is_valid": 1,
+    "latitude": 28.21451,
+    "longitude": 112.932395,
+    "max_applied_quantity_per_order": -1,
+    "name": "岳阳特色烧烤城",
+    "next_business_time": "",
+    "only_use_poi": false,
+    "opening_hours": [
+      "16:20/04:00"
+    ],
+    "order_lead_time": 44,
+    "phone": "17752895778",
+    "piecewise_agent_fee": {
+      "description": "配送费¥6",
+      "extra_fee": 0,
+      "is_extra": false,
+      "no_subsidy_fee": "",
+      "rules": [
+        {
+          "fee": 6,
+          "price": 30
+        }
+      ],
+      "tips": "配送费¥6"
+    },
+    "platform": 0,
+    "posters": [],
+    "promotion_info": "",
+    "rating": 4.4,
+    "rating_count": 5356,
+    "recent_order_num": 8162,
+    "recommend": {
+      "image_hash": "731111f3f9379e772eedf4855beae8a1jpeg",
+      "is_ad": true,
+      "reason": "广告",
+      "track": "{\"rankType\":\"8\"}"
+    },
+    "recommend_reasons": [],
+    "regular_customer_count": 0,
+    "scheme": "eleme://catering?restaurant_id=233830",
+    "status": 1,
+    "support_tags": [
+      {
+        "border": "dddddd",
+        "color": "666666",
+        "icon": "4e20966ca2a516de3f02fb9c7fd1bc6dpng",
+        "text": "烧烤",
+        "type": 1
+      },
+      {
+        "border": "dddddd",
+        "color": "333333",
+        "text": "品质联盟"
+      }
+    ],
+    "supports": [
+      {
+        "border": "90dddddd",
+        "description": "该商户食品安全已由国泰产险承担，食品安全有保障",
+        "icon_color": "999999",
+        "icon_name": "保",
+        "id": 7,
+        "name": "食安保",
+        "text_color": "666666",
+        "two_characters_icon_name": "保险"
+      },
+      {
+        "border": "90dddddd",
+        "description": "该商家支持开发票，开票订单金额300元起，请在下单时填写好发票抬头",
+        "icon_color": "999999",
+        "icon_name": "票",
+        "id": 4,
+        "name": "开发票",
+        "text_color": "666666",
+        "two_characters_icon_name": "发票"
+      }
+    ],
+    "theme": {
+      "default_color": "2395ff",
+      "header_style": 0,
+      "hongbao_style": 0,
+      "price_color": "ff5339",
+      "third_tab_name": "商家",
+      "vanish_fields": []
+    },
+    "type": 0
+  },
+  {
+    "address": "长沙市岳麓区天顶街道上柏家塘36栋3号",
+    "authentic_id": 4343664999013732,
+    "bidding": "{\"core\":{\"index\":9,\"extraInfo\":\"{\\\"bidding\\\":\\\"{}\\\",\\\"rankId\\\":\\\"15597d7b44ae4fa5b6c580a6f65b608f\\\",\\\"rankTime\\\":\\\"1538399941\\\",\\\"cityId\\\":\\\"21\\\"}\",\"target\":{\"restaurantId\":150992932,\"weight\":70,\"probability\":0.18859000504016876},\"come_from\":1,\"next\":{\"restaurantId\":166456884,\"weight\":100,\"probability\":0.12304999679327011}}}",
+    "business_info": "{}",
+    "description": "【虾小子，虾讲究】虾小子的虾都是精选大湖大虾，个个饱满鲜活。另外虾小子还有烧烤，卤味等美味哦~~~",
+    "distance": 1928,
+    "favored": false,
+    "flavors": [
+      {
+        "id": 218,
+        "name": "烧烤"
+      },
+      {
+        "id": 236,
+        "name": "小龙虾"
+      }
+    ],
+    "float_delivery_fee": 2.1,
+    "float_minimum_order_amount": 20,
+    "has_story": false,
+    "id": 150992932,
+    "image_path": "135017baa4bff949ad9cbe145be1fb8bpng",
+    "is_new": false,
+    "is_premium": false,
+    "is_stock_empty": 0,
+    "is_valid": 1,
+    "latitude": 28.197269,
+    "longitude": 112.892214,
+    "max_applied_quantity_per_order": -1,
+    "name": "虾小子漫时光烧烤虾尾美食坊",
+    "next_business_time": "",
+    "only_use_poi": false,
+    "opening_hours": [
+      "16:30/02:00"
+    ],
+    "order_lead_time": 34,
+    "phone": "13142149220",
+    "piecewise_agent_fee": {
+      "description": "夜间配送费¥2.1",
+      "extra_fee": -0.4,
+      "is_extra": true,
+      "no_subsidy_fee": "¥4.6",
+      "rules": [
+        {
+          "fee": 2.1,
+          "price": 20
+        }
+      ],
+      "tips": "夜间配送费¥2.1"
+    },
+    "platform": 0,
+    "posters": [],
+    "promotion_info": "【分量说明】好原材才能保证好味道，虾小子优先追求味道哦~~~，虾小子的体验装都是个人小品怡情，供各位客官大人体验虾小子味道的哦\n【配送说明】虾小子的配送都是由饿了么平台或其它配送公司统一配送，我们在保证出餐时间的同时会主动催单，但配送不是虾小子的工作人员哦",
+    "rating": 4.6,
+    "rating_count": 755,
+    "recent_order_num": 1732,
+    "recommend": {
+      "image_hash": "731111f3f9379e772eedf4855beae8a1jpeg",
+      "is_ad": true,
+      "reason": "广告",
+      "track": "{\"rankType\":\"8\"}"
+    },
+    "recommend_reasons": [],
+    "regular_customer_count": 0,
+    "scheme": "eleme://catering?restaurant_id=150992932",
+    "status": 1,
+    "support_tags": [
+      {
+        "border": "dddddd",
+        "color": "666666",
+        "icon": "4e20966ca2a516de3f02fb9c7fd1bc6dpng",
+        "text": "烧烤",
+        "type": 1
+      },
+      {
+        "border": "dddddd",
+        "color": "333333",
+        "text": "品质联盟"
+      }
+    ],
+    "supports": [
+      {
+        "border": "90dddddd",
+        "description": "该商户食品安全已由国泰产险承担，食品安全有保障",
+        "icon_color": "999999",
+        "icon_name": "保",
+        "id": 7,
+        "name": "食安保",
+        "text_color": "666666",
+        "two_characters_icon_name": "保险"
+      }
+    ],
+    "theme": {
+      "default_color": "2395ff",
+      "header_style": 0,
+      "hongbao_style": 0,
+      "price_color": "ff5339",
+      "third_tab_name": "商家",
+      "vanish_fields": []
+    },
+    "type": 0
+  },
+  {
+    "address": "长沙高新开发区麓谷五期延农安置小区4栋105号",
+    "authentic_id": 6383694979904884,
+    "bidding": "{\"core\":{\"index\":10,\"extraInfo\":\"{\\\"bidding\\\":\\\"{}\\\",\\\"rankId\\\":\\\"15597d7b44ae4fa5b6c580a6f65b608f\\\",\\\"rankTime\\\":\\\"1538399941\\\",\\\"cityId\\\":\\\"21\\\"}\",\"target\":{\"restaurantId\":166456884,\"weight\":100,\"probability\":0.12304999679327011},\"come_from\":1,\"next\":{\"restaurantId\":166895238,\"weight\":200,\"probability\":0.06038999930024147}}}",
+    "business_info": "{}",
+    "description": "亲们，国庆佳节，举国同庆，一庆祖国越来越昌盛，二庆日子越过越红火，三庆心情越来越欢畅，愿这盛大的节日带给您永远的幸运!❤️❤️❤️",
+    "distance": 2821,
+    "favored": false,
+    "flavors": [
+      {
+        "id": 234,
+        "name": "炸鸡炸串"
+      }
+    ],
+    "float_delivery_fee": 3.6,
+    "float_minimum_order_amount": 15,
+    "has_story": false,
+    "id": 166456884,
+    "image_path": "4fec580c99df18843d0094d116cc2b87jpeg",
+    "is_new": true,
+    "is_premium": false,
+    "is_stock_empty": 0,
+    "is_valid": 1,
+    "latitude": 28.206841,
+    "longitude": 112.868375,
+    "max_applied_quantity_per_order": -1,
+    "name": "Super chicken 韩式炸鸡",
+    "next_business_time": "",
+    "only_use_poi": false,
+    "opening_hours": [
+      "09:00/23:30"
+    ],
+    "order_lead_time": 34,
+    "phone": "15111159718",
+    "piecewise_agent_fee": {
+      "description": "夜间配送费¥3.6",
+      "extra_fee": 1.1,
+      "is_extra": true,
+      "no_subsidy_fee": "¥5.1",
+      "rules": [
+        {
+          "fee": 3.6,
+          "price": 15
+        }
+      ],
+      "tips": "夜间配送费¥3.6"
+    },
+    "platform": 0,
+    "posters": [],
+    "promotion_info": "本店所有餐品为了保证新鲜口感和味道的鲜美，都是下单以后现炸现做的。亲们可以放心下单，本店以秉承合理售价，低利润，高效服务为宗旨。为消费者服务，重点是做好炸鸡！做亲们爱吃的炸鸡！！！❤️",
+    "rating": 4.8,
+    "rating_count": 69,
+    "recent_order_num": 221,
+    "recommend": {
+      "image_hash": "731111f3f9379e772eedf4855beae8a1jpeg",
+      "is_ad": true,
+      "reason": "广告",
+      "track": "{\"rankType\":\"8\"}"
+    },
+    "recommend_reasons": [],
+    "regular_customer_count": 0,
+    "scheme": "eleme://catering?restaurant_id=166456884",
+    "status": 1,
+    "support_tags": [
+      {
+        "border": "dddddd",
+        "color": "666666",
+        "icon": "4e20966ca2a516de3f02fb9c7fd1bc6dpng",
+        "text": "炸鸡炸串",
+        "type": 1
+      },
+      {
+        "border": "dddddd",
+        "color": "333333",
+        "text": "品质联盟"
+      }
+    ],
+    "supports": [
+      {
+        "border": "90dddddd",
+        "description": "该商户食品安全已由国泰产险承担，食品安全有保障",
+        "icon_color": "999999",
+        "icon_name": "保",
+        "id": 7,
+        "name": "食安保",
+        "text_color": "666666",
+        "two_characters_icon_name": "保险"
+      }
+    ],
+    "theme": {
+      "default_color": "2395ff",
+      "header_style": 0,
+      "hongbao_style": 0,
+      "price_color": "ff5339",
+      "third_tab_name": "商家",
+      "vanish_fields": []
+    },
+    "type": 0
+  },
+  {
+    "address": "长沙市岳麓区天顶街道阳荷塘安置小区16栋第3缝101一楼门面",
+    "authentic_id": 6323614996143620,
+    "business_info": "{}",
+    "description": "",
+    "distance": 2530,
+    "favored": false,
+    "flavors": [
+      {
+        "id": 237,
+        "name": "地方小吃"
+      }
+    ],
+    "float_delivery_fee": 5.6,
+    "float_minimum_order_amount": 15,
+    "has_story": false,
+    "id": 167495120,
+    "image_path": "f21526f07d9aaf22de16353ada4808a4jpeg",
+    "is_new": true,
+    "is_premium": false,
+    "is_stock_empty": 0,
+    "is_valid": 1,
+    "latitude": 28.2164,
+    "longitude": 112.90703,
+    "max_applied_quantity_per_order": -1,
+    "name": "王子煎饼",
+    "next_business_time": "",
+    "only_use_poi": false,
+    "opening_hours": [
+      "07:00/23:35"
+    ],
+    "order_lead_time": 34,
+    "phone": "15173252987",
+    "piecewise_agent_fee": {
+      "description": "夜间配送费¥5.6",
+      "extra_fee": 2.6,
+      "is_extra": true,
+      "no_subsidy_fee": "",
+      "rules": [
+        {
+          "fee": 5.6,
+          "price": 15
+        }
+      ],
+      "tips": "夜间配送费¥5.6"
+    },
+    "platform": 0,
+    "posters": [],
+    "promotion_info": "正宗山东杂粮煎饼，无油更健康还很好吃，还可以减肥哦，欢迎大家来品尝。",
+    "rating": 4.8,
+    "rating_count": 40,
+    "recent_order_num": 96,
+    "recommend": {
+      "image_hash": "731111f3f9379e772eedf4855beae8a1jpeg",
+      "is_ad": false,
+      "track": "{\"rankType\":\"6\",\"trafficCardId\":\"46385889\"}"
+    },
+    "recommend_reasons": [],
+    "regular_customer_count": 0,
+    "scheme": "eleme://catering?restaurant_id=167495120",
+    "status": 1,
+    "support_tags": [
+      {
+        "border": "dddddd",
+        "color": "666666",
+        "icon": "4e20966ca2a516de3f02fb9c7fd1bc6dpng",
+        "text": "地方小吃",
+        "type": 1
+      }
+    ],
+    "supports": [
+      {
+        "border": "90dddddd",
+        "description": "该商户食品安全已由国泰产险承担，食品安全有保障",
+        "icon_color": "999999",
+        "icon_name": "保",
+        "id": 7,
+        "name": "食安保",
+        "text_color": "666666",
+        "two_characters_icon_name": "保险"
+      }
+    ],
+    "theme": {
+      "default_color": "2395ff",
+      "header_style": 0,
+      "hongbao_style": 0,
+      "price_color": "ff5339",
+      "third_tab_name": "商家",
+      "vanish_fields": []
+    },
+    "type": 0
+  },
+  {
+    "address": "湖南省长沙市岳麓区环湖路1177号方茂苑（二期）LG楼LG03号",
+    "authentic_id": 8333694995615695,
+    "business_info": "{}",
+    "description": "猪肘堡，重磅回归！",
+    "distance": 2541,
+    "favored": false,
+    "flavors": [
+      {
+        "id": 212,
+        "name": "汉堡"
+      },
+      {
+        "id": 234,
+        "name": "炸鸡炸串"
+      }
+    ],
+    "float_delivery_fee": 5,
+    "float_minimum_order_amount": 20,
+    "folding_restaurant_brand": "汉堡王",
+    "folding_restaurants": [
+      {
+        "distance": 3868,
+        "id": 1334020,
+        "name": "汉堡王（长沙步步高店21937）",
+        "order_lead_time": 41,
+        "scheme": "eleme://catering?restaurant_id=1334020",
+        "type": 0
+      }
+    ],
+    "has_story": false,
+    "id": 1371795,
+    "image_path": "e1727fa41fc2b03b1b8c2d794a5cf139jpeg",
+    "is_new": false,
+    "is_premium": true,
+    "is_stock_empty": 0,
+    "is_valid": 1,
+    "latitude": 28.196815,
+    "longitude": 112.901913,
+    "max_applied_quantity_per_order": -1,
+    "name": "汉堡王（长沙金茂汇店22463）",
+    "next_business_time": "",
+    "only_use_poi": false,
+    "opening_hours": [
+      "10:00/21:30"
+    ],
+    "order_lead_time": 49,
+    "phone": "4008988788",
+    "piecewise_agent_fee": {
+      "description": "配送费¥5",
+      "extra_fee": 0,
+      "is_extra": false,
+      "no_subsidy_fee": "",
+      "rules": [
+        {
+          "fee": 5,
+          "price": 20
+        }
+      ],
+      "tips": "配送费¥5"
+    },
+    "platform": 0,
+    "posters": [],
+    "promotion_info": "猪肘堡，重磅回归！",
+    "rating": 4.7,
+    "rating_count": 216,
+    "recent_order_num": 724,
+    "recommend": {
+      "is_ad": false,
+      "reason": ""
+    },
+    "recommend_reasons": [
+      {
+        "name": "回头客多"
+      }
+    ],
+    "regular_customer_count": 0,
+    "scheme": "eleme://catering?restaurant_id=1371795",
+    "status": 1,
+    "support_tags": [
+      {
+        "border": "dddddd",
+        "color": "666666",
+        "icon": "4e20966ca2a516de3f02fb9c7fd1bc6dpng",
+        "text": "汉堡",
+        "type": 1
+      }
+    ],
+    "supports": [
+      {
+        "border": "90dddddd",
+        "description": "该商家支持开发票，请在下单时填写好发票抬头",
+        "icon_color": "999999",
+        "icon_name": "票",
+        "id": 4,
+        "name": "开发票",
+        "text_color": "666666",
+        "two_characters_icon_name": "发票"
+      }
+    ],
+    "theme": {
+      "default_color": "2395ff",
+      "header_style": 0,
+      "hongbao_style": 0,
+      "price_color": "ff5339",
+      "third_tab_name": "商家",
+      "vanish_fields": []
+    },
+    "type": 0
+  },
+  {
+    "address": "长沙高新开发区麓谷五期东塘安置小区11栋106号门面",
+    "authentic_id": 4333684975857303,
+    "business_info": "{}",
+    "delivery_mode": {
+      "border": "",
+      "color": "2395FF",
+      "gradient": {
+        "rgb_from": "00AAFF",
+        "rgb_to": "0085FF"
+      },
+      "icon_hash": "b9b45d2f6ff0dbeef3a78ef0e4e90abapng",
+      "id": 1,
+      "is_solid": true,
+      "text": "蜂鸟专送",
+      "text_color": "FFFFFF"
+    },
+    "description": "",
+    "distance": 2828,
+    "favored": false,
+    "flavors": [
+      {
+        "id": 214,
+        "name": "麻辣烫"
+      },
+      {
+        "id": 237,
+        "name": "地方小吃"
+      }
+    ],
+    "float_delivery_fee": 4.6,
+    "float_minimum_order_amount": 15,
+    "has_story": false,
+    "id": 153185503,
+    "image_path": "4067e3ad037169dbf601207709eda991jpeg",
+    "is_new": false,
+    "is_premium": false,
+    "is_stock_empty": 0,
+    "is_valid": 1,
+    "latitude": 28.20343,
+    "longitude": 112.869212,
+    "max_applied_quantity_per_order": -1,
+    "name": "益阳麻辣烫",
+    "next_business_time": "",
+    "only_use_poi": false,
+    "opening_hours": [
+      "11:00/23:55"
+    ],
+    "order_lead_time": 31,
+    "phone": "15874934986",
+    "piecewise_agent_fee": {
+      "description": "夜间配送费¥4.6",
+      "extra_fee": 3.6,
+      "is_extra": true,
+      "no_subsidy_fee": "",
+      "rules": [
+        {
+          "fee": 4.6,
+          "price": 15
+        }
+      ],
+      "tips": "夜间配送费¥4.6"
+    },
+    "platform": 0,
+    "posters": [],
+    "promotion_info": "",
+    "rating": 4.6,
+    "rating_count": 5841,
+    "recent_order_num": 1889,
+    "recommend": {
+      "is_ad": false,
+      "reason": ""
+    },
+    "recommend_reasons": [
+      {
+        "name": "配送飞快"
+      }
+    ],
+    "regular_customer_count": 0,
+    "scheme": "eleme://catering?restaurant_id=153185503",
+    "status": 1,
+    "support_tags": [
+      {
+        "border": "dddddd",
+        "color": "666666",
+        "icon": "4e20966ca2a516de3f02fb9c7fd1bc6dpng",
+        "text": "麻辣烫",
+        "type": 1
+      }
+    ],
+    "supports": [],
+    "theme": {
+      "default_color": "2395ff",
+      "header_style": 0,
+      "hongbao_style": 0,
+      "price_color": "ff5339",
+      "third_tab_name": "商家",
+      "vanish_fields": []
+    },
+    "type": 0
+  },
+  {
+    "address": "长沙市岳麓区天顶街道阳荷塘小区1栋B3号",
+    "authentic_id": 3333674979449438,
+    "bidding": "{\"core\":{\"index\":14,\"extraInfo\":\"{\\\"bidding\\\":\\\"{}\\\",\\\"rankId\\\":\\\"15597d7b44ae4fa5b6c580a6f65b608f\\\",\\\"rankTime\\\":\\\"1538399941\\\",\\\"cityId\\\":\\\"21\\\"}\",\"target\":{\"restaurantId\":166895238,\"weight\":200,\"probability\":0.06038999930024147},\"come_from\":1,\"next\":{\"restaurantId\":2051210,\"weight\":100,\"probability\":0.11913999915122986}}}",
+    "business_info": "{}",
+    "description": "",
+    "distance": 2514,
+    "favored": false,
+    "flavors": [
+      {
+        "id": 218,
+        "name": "烧烤"
+      },
+      {
+        "id": 236,
+        "name": "小龙虾"
+      }
+    ],
+    "float_delivery_fee": 5,
+    "float_minimum_order_amount": 20,
+    "has_story": false,
+    "id": 166895238,
+    "image_path": "d9df2c559c6891f7b195df1359c6e681png",
+    "is_new": true,
+    "is_premium": false,
+    "is_stock_empty": 0,
+    "is_valid": 1,
+    "latitude": 28.218171,
+    "longitude": 112.905801,
+    "max_applied_quantity_per_order": -1,
+    "name": "牛三宝烧烤(河西店)",
+    "next_business_time": "",
+    "only_use_poi": false,
+    "opening_hours": [
+      "00:00/04:00",
+      "17:00/23:55"
+    ],
+    "order_lead_time": 38,
+    "phone": "18673709158",
+    "piecewise_agent_fee": {
+      "description": "配送费¥5",
+      "extra_fee": 0,
+      "is_extra": false,
+      "no_subsidy_fee": "",
+      "rules": [
+        {
+          "fee": 5,
+          "price": 20
+        }
+      ],
+      "tips": "配送费¥5"
+    },
+    "platform": 0,
+    "posters": [],
+    "promotion_info": "新店开张，优惠多多，如有遗漏，请致电18673709158.",
+    "rating": 4.6,
+    "rating_count": 233,
+    "recent_order_num": 230,
+    "recommend": {
+      "image_hash": "731111f3f9379e772eedf4855beae8a1jpeg",
+      "is_ad": true,
+      "reason": "广告",
+      "track": "{\"rankType\":\"8\"}"
+    },
+    "recommend_reasons": [],
+    "regular_customer_count": 0,
+    "scheme": "eleme://catering?restaurant_id=166895238",
+    "status": 1,
+    "support_tags": [
+      {
+        "border": "dddddd",
+        "color": "666666",
+        "icon": "4e20966ca2a516de3f02fb9c7fd1bc6dpng",
+        "text": "烧烤",
+        "type": 1
+      },
+      {
+        "border": "dddddd",
+        "color": "333333",
+        "text": "品质联盟"
+      }
+    ],
+    "supports": [
+      {
+        "border": "90dddddd",
+        "description": "该商户食品安全已由国泰产险承担，食品安全有保障",
+        "icon_color": "999999",
+        "icon_name": "保",
+        "id": 7,
+        "name": "食安保",
+        "text_color": "666666",
+        "two_characters_icon_name": "保险"
+      }
+    ],
+    "theme": {
+      "default_color": "2395ff",
+      "header_style": 0,
+      "hongbao_style": 0,
+      "price_color": "ff5339",
+      "third_tab_name": "商家",
+      "vanish_fields": []
+    },
+    "type": 0
+  },
+  {
+    "address": " 湖南省长沙市岳麓区梅溪湖街道润芳园S5栋123商铺",
+    "authentic_id": 4323634981359051,
+    "business_info": "{}",
+    "description": "为保证新鲜酥脆，本店炸鸡均为下单后现做，制作过程需要15分钟左右。韩式炸鸡默认表面淋汁，如需炸鸡和酱汁分开打包请备注，下雨骑手送餐会久一点，确保安全，尽请谅解。~~",
+    "distance": 3336,
+    "favored": false,
+    "flavors": [
+      {
+        "id": 234,
+        "name": "炸鸡炸串"
+      },
+      {
+        "id": 237,
+        "name": "地方小吃"
+      }
+    ],
+    "float_delivery_fee": 4.6,
+    "float_minimum_order_amount": 20,
+    "has_story": false,
+    "id": 161780051,
+    "image_path": "f19876da63cfeaa383f16f284f30bc89jpeg",
+    "is_new": false,
+    "is_premium": false,
+    "is_stock_empty": 0,
+    "is_valid": 1,
+    "latitude": 28.19266,
+    "longitude": 112.872449,
+    "max_applied_quantity_per_order": -1,
+    "name": "崔酱韩式炸鸡(梅溪湖店)",
+    "next_business_time": "",
+    "only_use_poi": false,
+    "opening_hours": [
+      "10:45/22:00"
+    ],
+    "order_lead_time": 45,
+    "phone": "18573106527",
+    "piecewise_agent_fee": {
+      "description": "夜间配送费¥4.6",
+      "extra_fee": 1.6,
+      "is_extra": true,
+      "no_subsidy_fee": "¥6.1",
+      "rules": [
+        {
+          "fee": 4.6,
+          "price": 20
+        }
+      ],
+      "tips": "夜间配送费¥4.6"
+    },
+    "platform": 0,
+    "posters": [],
+    "promotion_info": "为保证新鲜酥脆，本店炸鸡均为下单后现做，制作过程需要15分钟左右。韩式炸鸡默认表面淋汁，如需炸鸡和酱汁分开打包请备注，下雨骑手送餐会久一点，确保安全，尽请谅解。~~",
+    "rating": 4.9,
+    "rating_count": 57,
+    "recent_order_num": 189,
+    "recommend": {
+      "is_ad": false,
+      "reason": ""
+    },
+    "recommend_reasons": [],
+    "regular_customer_count": 0,
+    "scheme": "eleme://catering?restaurant_id=161780051",
+    "status": 1,
+    "support_tags": [
+      {
+        "border": "dddddd",
+        "color": "666666",
+        "icon": "4e20966ca2a516de3f02fb9c7fd1bc6dpng",
+        "text": "炸鸡炸串",
+        "type": 1
+      },
+      {
+        "border": "dddddd",
+        "color": "333333",
+        "text": "品质联盟"
+      }
+    ],
+    "supports": [
+      {
+        "border": "90dddddd",
+        "description": "该商户食品安全已由国泰产险承担，食品安全有保障",
+        "icon_color": "999999",
+        "icon_name": "保",
+        "id": 7,
+        "name": "食安保",
+        "text_color": "666666",
+        "two_characters_icon_name": "保险"
+      }
+    ],
+    "theme": {
+      "default_color": "2395ff",
+      "header_style": 0,
+      "hongbao_style": 0,
+      "price_color": "ff5339",
+      "third_tab_name": "商家",
+      "vanish_fields": []
+    },
+    "type": 0
+  },
+  {
+    "address": "长沙市岳麓区梅溪湖街道枫林三路889号万科城市花园一期独立商业栋1075号",
+    "authentic_id": 1393644983474848,
+    "business_info": "{}",
+    "description": "",
+    "distance": 2915,
+    "favored": false,
+    "flavors": [
+      {
+        "id": 218,
+        "name": "烧烤"
+      },
+      {
+        "id": 231,
+        "name": "火锅烤鱼"
+      }
+    ],
+    "float_delivery_fee": 3.6,
+    "float_minimum_order_amount": 20,
+    "has_story": false,
+    "id": 161581248,
+    "image_path": "4b498cb5c85df7d943753bd5dbe42bf8png",
+    "is_new": false,
+    "is_premium": false,
+    "is_stock_empty": 0,
+    "is_valid": 1,
+    "latitude": 28.195211,
+    "longitude": 112.8742,
+    "max_applied_quantity_per_order": -1,
+    "name": "食客帝国美食",
+    "next_business_time": "",
+    "only_use_poi": false,
+    "opening_hours": [
+      "16:00/03:30"
+    ],
+    "order_lead_time": 42,
+    "phone": "17673607489",
+    "piecewise_agent_fee": {
+      "description": "夜间配送费¥3.6",
+      "extra_fee": 0.6,
+      "is_extra": true,
+      "no_subsidy_fee": "¥5.6",
+      "rules": [
+        {
+          "fee": 3.6,
+          "price": 20
+        }
+      ],
+      "tips": "夜间配送费¥3.6"
+    },
+    "platform": 0,
+    "posters": [],
+    "promotion_info": "美味与趣味不可多得，美食与美景不可辜负，很高兴遇见你",
+    "rating": 4.7,
+    "rating_count": 372,
+    "recent_order_num": 541,
+    "recommend": {
+      "is_ad": false,
+      "reason": ""
+    },
+    "recommend_reasons": [
+      {
+        "name": "回头客多"
+      }
+    ],
+    "regular_customer_count": 0,
+    "scheme": "eleme://catering?restaurant_id=161581248",
+    "status": 1,
+    "support_tags": [
+      {
+        "border": "dddddd",
+        "color": "666666",
+        "icon": "4e20966ca2a516de3f02fb9c7fd1bc6dpng",
+        "text": "烧烤",
+        "type": 1
+      }
+    ],
+    "supports": [],
+    "theme": {
+      "default_color": "2395ff",
+      "header_style": 0,
+      "hongbao_style": 0,
+      "price_color": "ff5339",
+      "third_tab_name": "商家",
+      "vanish_fields": []
+    },
+    "type": 0
+  },
+  {
+    "address": "长沙高新开发区文轩路579号天元涉外景园B区商业1115号",
+    "authentic_id": 8343654986144873,
+    "business_info": "{}",
+    "description": "抖手小龙虾，一家专注品质外卖的门店，秉持着卫生第yi，口味第二的服务宗旨，只为带给你更好的用餐体验！",
+    "distance": 2612,
+    "favored": false,
+    "flavors": [
+      {
+        "id": 236,
+        "name": "小龙虾"
+      },
+      {
+        "id": 218,
+        "name": "烧烤"
+      }
+    ],
+    "float_delivery_fee": 5.6,
+    "float_minimum_order_amount": 20,
+    "has_story": false,
+    "id": 166284973,
+    "image_path": "4a6bdd1cd2c82dbbf0e8c1c7309127b2jpeg",
+    "is_new": false,
+    "is_premium": false,
+    "is_stock_empty": 0,
+    "is_valid": 1,
+    "latitude": 28.205726,
+    "longitude": 112.871761,
+    "max_applied_quantity_per_order": -1,
+    "name": "抖手小龙虾",
+    "next_business_time": "",
+    "only_use_poi": false,
+    "opening_hours": [
+      "17:00/02:00"
+    ],
+    "order_lead_time": 37,
+    "phone": "0731-82294726",
+    "piecewise_agent_fee": {
+      "description": "夜间配送费¥5.6",
+      "extra_fee": 2.6,
+      "is_extra": true,
+      "no_subsidy_fee": "",
+      "rules": [
+        {
+          "fee": 5.6,
+          "price": 20
+        }
+      ],
+      "tips": "夜间配送费¥5.6"
+    },
+    "platform": 0,
+    "posters": [],
+    "promotion_info": "欢迎光临抖手小龙虾，专注品质外卖，用餐高峰期请提前下单，谢谢，希望带给你更好的用餐体验！",
+    "rating": 4.9,
+    "rating_count": 78,
+    "recent_order_num": 203,
+    "recommend": {
+      "is_ad": false,
+      "reason": ""
+    },
+    "recommend_reasons": [],
+    "regular_customer_count": 0,
+    "scheme": "eleme://catering?restaurant_id=166284973",
+    "status": 1,
+    "support_tags": [
+      {
+        "border": "dddddd",
+        "color": "666666",
+        "icon": "4e20966ca2a516de3f02fb9c7fd1bc6dpng",
+        "text": "小龙虾",
+        "type": 1
+      },
+      {
+        "border": "dddddd",
+        "color": "333333",
+        "text": "品质联盟"
+      }
+    ],
+    "supports": [
+      {
+        "border": "90dddddd",
+        "description": "该商户食品安全已由国泰产险承担，食品安全有保障",
+        "icon_color": "999999",
+        "icon_name": "保",
+        "id": 7,
+        "name": "食安保",
+        "text_color": "666666",
+        "two_characters_icon_name": "保险"
+      }
+    ],
+    "theme": {
+      "default_color": "2395ff",
+      "header_style": 0,
+      "hongbao_style": 0,
+      "price_color": "ff5339",
+      "third_tab_name": "商家",
+      "vanish_fields": []
+    },
+    "type": 0
+  },
+  {
+    "address": "长沙市岳麓区天顶街道清水社区浪琴湾小区A18栋5号一楼门面",
+    "authentic_id": 6393604990320851,
+    "business_info": "{}",
+    "description": "",
+    "distance": 2266,
+    "favored": false,
+    "flavors": [
+      {
+        "id": 236,
+        "name": "小龙虾"
+      },
+      {
+        "id": 265,
+        "name": "简餐"
+      }
+    ],
+    "float_delivery_fee": 4.1,
+    "float_minimum_order_amount": 20,
+    "has_story": false,
+    "id": 166961951,
+    "image_path": "e2452b956c7c2aa050689ca716b9949apng",
+    "is_new": true,
+    "is_premium": false,
+    "is_stock_empty": 0,
+    "is_valid": 1,
+    "latitude": 28.195753,
+    "longitude": 112.895611,
+    "max_applied_quantity_per_order": -1,
+    "name": "一品虾蟹(梅溪湖店)",
+    "next_business_time": "",
+    "only_use_poi": false,
+    "opening_hours": [
+      "11:00/23:55"
+    ],
+    "order_lead_time": 36,
+    "phone": "13590196177 18597843685",
+    "piecewise_agent_fee": {
+      "description": "夜间配送费¥4.1",
+      "extra_fee": 1.1,
+      "is_extra": true,
+      "no_subsidy_fee": "¥5.1",
+      "rules": [
+        {
+          "fee": 4.1,
+          "price": 20
+        }
+      ],
+      "tips": "夜间配送费¥4.1"
+    },
+    "platform": 0,
+    "posters": [],
+    "promotion_info": "新店开张， 限时特惠！ 良心材、用心做、放心吃！\n送餐过程中如有任何问题请联系：18597843685，我们会竭力为您解决！",
+    "rating": 4.8,
+    "rating_count": 12,
+    "recent_order_num": 35,
+    "recommend": {
+      "image_hash": "731111f3f9379e772eedf4855beae8a1jpeg",
+      "is_ad": false,
+      "track": "{\"rankType\":\"6\",\"trafficCardId\":\"45265873\"}"
+    },
+    "recommend_reasons": [],
+    "regular_customer_count": 0,
+    "scheme": "eleme://catering?restaurant_id=166961951",
+    "status": 1,
+    "support_tags": [
+      {
+        "border": "dddddd",
+        "color": "666666",
+        "icon": "4e20966ca2a516de3f02fb9c7fd1bc6dpng",
+        "text": "小龙虾",
+        "type": 1
+      },
+      {
+        "border": "dddddd",
+        "color": "333333",
+        "text": "品质联盟"
+      }
+    ],
+    "supports": [
+      {
+        "border": "90dddddd",
+        "description": "该商户食品安全已由国泰产险承担，食品安全有保障",
+        "icon_color": "999999",
+        "icon_name": "保",
+        "id": 7,
+        "name": "食安保",
+        "text_color": "666666",
+        "two_characters_icon_name": "保险"
+      }
+    ],
+    "theme": {
+      "default_color": "2395ff",
+      "header_style": 0,
+      "hongbao_style": 0,
+      "price_color": "ff5339",
+      "third_tab_name": "商家",
+      "vanish_fields": []
+    },
+    "type": 0
+  },
+  {
+    "address": "长沙市岳麓区天顶街道环湖路1177号长沙金茂汇LG05号",
+    "authentic_id": 8313694979587910,
+    "bidding": "{\"core\":{\"index\":19,\"extraInfo\":\"{\\\"bidding\\\":\\\"{}\\\",\\\"rankId\\\":\\\"15597d7b44ae4fa5b6c580a6f65b608f\\\",\\\"rankTime\\\":\\\"1538399941\\\",\\\"cityId\\\":\\\"21\\\"}\",\"target\":{\"restaurantId\":2051210,\"weight\":100,\"probability\":0.11913999915122986},\"come_from\":1,\"next\":{\"restaurantId\":157458497,\"weight\":70,\"probability\":0.16955000162124634}}}",
+    "business_info": "{}",
+    "delivery_mode": {
+      "border": "",
+      "color": "2395FF",
+      "gradient": {
+        "rgb_from": "00AAFF",
+        "rgb_to": "0085FF"
+      },
+      "icon_hash": "b9b45d2f6ff0dbeef3a78ef0e4e90abapng",
+      "id": 1,
+      "is_solid": true,
+      "text": "蜂鸟专送",
+      "text_color": "FFFFFF"
+    },
+    "description": "香他她煲仔饭（金茂览秀城店）",
+    "distance": 2487,
+    "favored": false,
+    "flavors": [
+      {
+        "id": 269,
+        "name": "煲仔饭"
+      }
+    ],
+    "float_delivery_fee": 3.6,
+    "float_minimum_order_amount": 20,
+    "has_story": false,
+    "id": 2051210,
+    "image_path": "01145cb32be7ed83747be872b23fcb73png",
+    "is_new": false,
+    "is_premium": true,
+    "is_stock_empty": 0,
+    "is_valid": 1,
+    "latitude": 28.19658,
+    "longitude": 112.90092,
+    "max_applied_quantity_per_order": -1,
+    "name": "香他她煲仔饭（金茂览秀店）",
+    "next_business_time": "",
+    "only_use_poi": false,
+    "opening_hours": [
+      "10:00/21:50"
+    ],
+    "order_lead_time": 32,
+    "phone": "0731--88738398",
+    "piecewise_agent_fee": {
+      "description": "夜间配送费¥3.6",
+      "extra_fee": 1.6,
+      "is_extra": true,
+      "no_subsidy_fee": "¥6.6",
+      "rules": [
+        {
+          "fee": 3.6,
+          "price": 20
+        }
+      ],
+      "tips": "夜间配送费¥3.6"
+    },
+    "platform": 0,
+    "posters": [],
+    "promotion_info": "我们有1.泰国原装进口大米。2.非转基因植物油。3.国宴标准咸鸭蛋。",
+    "rating": 4.7,
+    "rating_count": 133,
+    "recent_order_num": 577,
+    "recommend": {
+      "image_hash": "731111f3f9379e772eedf4855beae8a1jpeg",
+      "is_ad": true,
+      "reason": "广告",
+      "track": "{\"rankType\":\"8\"}"
+    },
+    "recommend_reasons": [
+      {
+        "name": "回头客多"
+      },
+      {
+        "name": "配送飞快"
+      }
+    ],
+    "regular_customer_count": 0,
+    "scheme": "eleme://catering?restaurant_id=2051210",
+    "status": 1,
+    "support_tags": [
+      {
+        "border": "dddddd",
+        "color": "666666",
+        "icon": "4e20966ca2a516de3f02fb9c7fd1bc6dpng",
+        "text": "煲仔饭",
+        "type": 1
+      },
+      {
+        "border": "dddddd",
+        "color": "333333",
+        "text": "品质联盟"
+      }
+    ],
+    "supports": [
+      {
+        "border": "90dddddd",
+        "description": "该商户食品安全已由国泰产险承担，食品安全有保障",
+        "icon_color": "999999",
+        "icon_name": "保",
+        "id": 7,
+        "name": "食安保",
+        "text_color": "666666",
+        "two_characters_icon_name": "保险"
+      }
+    ],
+    "theme": {
+      "default_color": "2395ff",
+      "header_style": 0,
+      "hongbao_style": 0,
+      "price_color": "ff5339",
+      "third_tab_name": "商家",
+      "vanish_fields": []
+    },
+    "type": 0
+  },
+  {
+    "address": "长沙市岳麓区天顶街道八家湾小区7栋1号1楼",
+    "authentic_id": 2383664991807722,
+    "business_info": "{}",
+    "description": "",
+    "distance": 1505,
+    "favored": false,
+    "flavors": [
+      {
+        "id": 212,
+        "name": "汉堡"
+      },
+      {
+        "id": 234,
+        "name": "炸鸡炸串"
+      }
+    ],
+    "float_delivery_fee": 2.1,
+    "float_minimum_order_amount": 20,
+    "has_story": false,
+    "id": 162779622,
+    "image_path": "d50eb9d4929fea0d9ed25cd39b0ffc20png",
+    "is_new": false,
+    "is_premium": true,
+    "is_stock_empty": 0,
+    "is_valid": 1,
+    "latitude": 28.203249,
+    "longitude": 112.881973,
+    "max_applied_quantity_per_order": -1,
+    "name": "韦小堡•炸鸡汉堡（涉外店）",
+    "next_business_time": "",
+    "only_use_poi": false,
+    "opening_hours": [
+      "10:00/24:00"
+    ],
+    "order_lead_time": 31,
+    "phone": "18874788103",
+    "piecewise_agent_fee": {
+      "description": "夜间配送费¥2.1",
+      "extra_fee": 0.8,
+      "is_extra": true,
+      "no_subsidy_fee": "¥4.6",
+      "rules": [
+        {
+          "fee": 2.1,
+          "price": 20
+        }
+      ],
+      "tips": "夜间配送费¥2.1"
+    },
+    "platform": 0,
+    "posters": [],
+    "promotion_info": "一分价钱一份品质，我傲娇我的生活！",
+    "rating": 4.7,
+    "rating_count": 1727,
+    "recent_order_num": 4702,
+    "recommend": {
+      "is_ad": false,
+      "reason": ""
+    },
+    "recommend_reasons": [
+      {
+        "name": "味道超赞"
+      },
+      {
+        "name": "回头客多"
+      },
+      {
+        "name": "配送飞快"
+      }
+    ],
+    "regular_customer_count": 0,
+    "scheme": "eleme://catering?restaurant_id=162779622",
+    "status": 1,
+    "support_tags": [
+      {
+        "border": "dddddd",
+        "color": "666666",
+        "icon": "4e20966ca2a516de3f02fb9c7fd1bc6dpng",
+        "text": "汉堡",
+        "type": 1
+      }
+    ],
+    "supports": [],
+    "theme": {
+      "default_color": "2395ff",
+      "header_style": 0,
+      "hongbao_style": 0,
+      "price_color": "ff5339",
+      "third_tab_name": "商家",
+      "vanish_fields": []
+    },
+    "type": 0
+  },
+  {
+    "address": "长沙市岳麓区天顶街道浪琴湾小区13栋7-1号1楼门面",
+    "authentic_id": 7363624987559754,
+    "business_info": "{}",
+    "description": "本店主要经营湘西小串 特色小串 欢迎新老顾客品尝",
+    "distance": 2209,
+    "favored": false,
+    "flavors": [
+      {
+        "id": 218,
+        "name": "烧烤"
+      },
+      {
+        "id": 236,
+        "name": "小龙虾"
+      }
+    ],
+    "float_delivery_fee": 2.6,
+    "float_minimum_order_amount": 20,
+    "has_story": false,
+    "id": 163761154,
+    "image_path": "0da5d60ffada306414e929f90af6f078jpeg",
+    "is_new": false,
+    "is_premium": false,
+    "is_stock_empty": 0,
+    "is_valid": 1,
+    "latitude": 28.196081,
+    "longitude": 112.895425,
+    "max_applied_quantity_per_order": -1,
+    "name": "烂番茄烧烤铺",
+    "next_business_time": "",
+    "only_use_poi": false,
+    "opening_hours": [
+      "17:00/03:00"
+    ],
+    "order_lead_time": 37,
+    "phone": "18505859662",
+    "piecewise_agent_fee": {
+      "description": "夜间配送费¥2.6",
+      "extra_fee": 1.1,
+      "is_extra": true,
+      "no_subsidy_fee": "¥4.6",
+      "rules": [
+        {
+          "fee": 2.6,
+          "price": 20
+        }
+      ],
+      "tips": "夜间配送费¥2.6"
+    },
+    "platform": 0,
+    "posters": [],
+    "promotion_info": "初心串",
+    "rating": 4.7,
+    "rating_count": 313,
+    "recent_order_num": 446,
+    "recommend": {
+      "is_ad": false,
+      "reason": ""
+    },
+    "recommend_reasons": [],
+    "regular_customer_count": 0,
+    "scheme": "eleme://catering?restaurant_id=163761154",
+    "status": 1,
+    "support_tags": [
+      {
+        "border": "dddddd",
+        "color": "666666",
+        "icon": "4e20966ca2a516de3f02fb9c7fd1bc6dpng",
+        "text": "烧烤",
+        "type": 1
+      },
+      {
+        "border": "dddddd",
+        "color": "333333",
+        "text": "品质联盟"
+      }
+    ],
+    "supports": [
+      {
+        "border": "90dddddd",
+        "description": "该商家支持开发票，开票订单金额300元起，请在下单时填写好发票抬头",
+        "icon_color": "999999",
+        "icon_name": "票",
+        "id": 4,
+        "name": "开发票",
+        "text_color": "666666",
+        "two_characters_icon_name": "发票"
+      }
+    ],
+    "theme": {
+      "default_color": "2395ff",
+      "header_style": 0,
+      "hongbao_style": 0,
+      "price_color": "ff5339",
+      "third_tab_name": "商家",
+      "vanish_fields": []
+    },
+    "type": 0
+  },
+  {
+    "address": "湖南省长沙市岳麓区桐梓坡西路138号长房时代城21栋一层",
+    "authentic_id": 3383664989256223,
+    "business_info": "{}",
+    "delivery_mode": {
+      "border": "",
+      "color": "2395FF",
+      "gradient": {
+        "rgb_from": "00AAFF",
+        "rgb_to": "0085FF"
+      },
+      "icon_hash": "b9b45d2f6ff0dbeef3a78ef0e4e90abapng",
+      "id": 1,
+      "is_solid": true,
+      "text": "蜂鸟专送",
+      "text_color": "FFFFFF"
+    },
+    "description": "",
+    "distance": 2967,
+    "favored": false,
+    "flavors": [
+      {
+        "id": 265,
+        "name": "简餐"
+      },
+      {
+        "id": 215,
+        "name": "包子粥店"
+      }
+    ],
+    "float_delivery_fee": 6.6,
+    "float_minimum_order_amount": 20,
+    "has_story": false,
+    "id": 1087123,
+    "image_path": "7fc87ad9075e18a5b1c09a24ae8bf04cpng",
+    "is_new": false,
+    "is_premium": false,
+    "is_stock_empty": 0,
+    "is_valid": 1,
+    "latitude": 28.220865,
+    "longitude": 112.909736,
+    "max_applied_quantity_per_order": -1,
+    "name": "罗莎台北豆浆(人人乐店)",
+    "next_business_time": "",
+    "only_use_poi": false,
+    "opening_hours": [
+      "00:00/24:00"
+    ],
+    "order_lead_time": 23,
+    "phone": "0731-85997911",
+    "piecewise_agent_fee": {
+      "description": "夜间配送费¥6.6",
+      "extra_fee": 3.6,
+      "is_extra": true,
+      "no_subsidy_fee": "",
+      "rules": [
+        {
+          "fee": 6.6,
+          "price": 20
+        }
+      ],
+      "tips": "夜间配送费¥6.6"
+    },
+    "platform": 0,
+    "posters": [],
+    "promotion_info": "各位尊敬的顾客，天气气温高，请您收到餐点后在1小时内食用或者及时放冷餐柜，祝您用餐愉快。",
+    "rating": 4.7,
+    "rating_count": 690,
+    "recent_order_num": 1396,
+    "recommend": {
+      "is_ad": false,
+      "reason": ""
+    },
+    "recommend_reasons": [
+      {
+        "name": "回头客多"
+      },
+      {
+        "name": "配送飞快"
+      }
+    ],
+    "regular_customer_count": 0,
+    "scheme": "eleme://catering?restaurant_id=1087123",
+    "status": 1,
+    "support_tags": [
+      {
+        "border": "dddddd",
+        "color": "666666",
+        "icon": "4e20966ca2a516de3f02fb9c7fd1bc6dpng",
+        "text": "简餐",
+        "type": 1
+      }
+    ],
+    "supports": [
+      {
+        "border": "90dddddd",
+        "description": "该商家支持开发票，请在下单时填写好发票抬头",
+        "icon_color": "999999",
+        "icon_name": "票",
+        "id": 4,
+        "name": "开发票",
+        "text_color": "666666",
+        "two_characters_icon_name": "发票"
+      }
+    ],
+    "theme": {
+      "default_color": "2395ff",
+      "header_style": 0,
+      "hongbao_style": 0,
+      "price_color": "ff5339",
+      "third_tab_name": "商家",
+      "vanish_fields": []
+    },
+    "type": 0
+  },
+  {
+    "address": "长沙市岳麓区梅溪湖街道家和苑小区10栋107号",
+    "authentic_id": 5363654979791812,
+    "business_info": "{}",
+    "description": "",
+    "distance": 3188,
+    "favored": false,
+    "flavors": [
+      {
+        "id": 213,
+        "name": "米粉面馆"
+      },
+      {
+        "id": 237,
+        "name": "地方小吃"
+      }
+    ],
+    "float_delivery_fee": 3.6,
+    "float_minimum_order_amount": 20,
+    "has_story": false,
+    "id": 161363612,
+    "image_path": "4bbc7d9eeabf7a91cc033baa180ddbfdpng",
+    "is_new": false,
+    "is_premium": false,
+    "is_stock_empty": 0,
+    "is_valid": 1,
+    "latitude": 28.191704,
+    "longitude": 112.875583,
+    "max_applied_quantity_per_order": -1,
+    "name": "福桂卤粉（梅溪湖店）",
+    "next_business_time": "",
+    "only_use_poi": false,
+    "opening_hours": [
+      "00:00/24:00"
+    ],
+    "order_lead_time": 32,
+    "phone": "18570699787",
+    "piecewise_agent_fee": {
+      "description": "夜间配送费¥3.6",
+      "extra_fee": 1.1,
+      "is_extra": true,
+      "no_subsidy_fee": "¥5.6",
+      "rules": [
+        {
+          "fee": 3.6,
+          "price": 20
+        }
+      ],
+      "tips": "夜间配送费¥3.6"
+    },
+    "platform": 0,
+    "posters": [],
+    "promotion_info": "本店所有食材都是市场认真挑选的优质食材，价格地道，各位新老顾客可货比三家，切莫贪图价格上的便宜。做品质外卖我们一直都在路上，祝各位富贵吉祥，福桂常伴。",
+    "rating": 4.7,
+    "rating_count": 909,
+    "recent_order_num": 2186,
+    "recommend": {
+      "is_ad": false,
+      "reason": ""
+    },
+    "recommend_reasons": [
+      {
+        "name": "味道超赞"
+      },
+      {
+        "name": "回头客多"
+      },
+      {
+        "name": "配送飞快"
+      }
+    ],
+    "regular_customer_count": 0,
+    "scheme": "eleme://catering?restaurant_id=161363612",
+    "status": 1,
+    "support_tags": [
+      {
+        "border": "dddddd",
+        "color": "666666",
+        "icon": "4e20966ca2a516de3f02fb9c7fd1bc6dpng",
+        "text": "米粉面馆",
+        "type": 1
+      }
+    ],
+    "supports": [],
+    "theme": {
+      "default_color": "2395ff",
+      "header_style": 0,
+      "hongbao_style": 0,
+      "price_color": "ff5339",
+      "third_tab_name": "商家",
+      "vanish_fields": []
+    },
+    "type": 0
+  },
+  {
+    "address": "长沙高新开发区麓谷五期长丰29栋101号",
+    "authentic_id": 1333614997345697,
+    "bidding": "{\"core\":{\"index\":24,\"extraInfo\":\"{\\\"bidding\\\":\\\"{}\\\",\\\"rankId\\\":\\\"15597d7b44ae4fa5b6c580a6f65b608f\\\",\\\"rankTime\\\":\\\"1538399941\\\",\\\"cityId\\\":\\\"21\\\"}\",\"target\":{\"restaurantId\":157458497,\"weight\":70,\"probability\":0.16955000162124634},\"come_from\":1,\"next\":{\"restaurantId\":162975212,\"weight\":60,\"probability\":0.19612999260425568}}}",
+    "business_info": "{}",
+    "description": "",
+    "distance": 2870,
+    "favored": false,
+    "flavors": [
+      {
+        "id": 209,
+        "name": "盖浇饭"
+      },
+      {
+        "id": 265,
+        "name": "简餐"
+      }
+    ],
+    "float_delivery_fee": 3.1,
+    "float_minimum_order_amount": 20,
+    "has_story": false,
+    "id": 157458497,
+    "image_path": "1bede5e5793d514902a83c520aca9ac5png",
+    "is_new": false,
+    "is_premium": false,
+    "is_stock_empty": 0,
+    "is_valid": 1,
+    "latitude": 28.204985,
+    "longitude": 112.86838,
+    "max_applied_quantity_per_order": -1,
+    "name": "老妹儿脆皮鸡饭",
+    "next_business_time": "",
+    "only_use_poi": false,
+    "opening_hours": [
+      "09:45/22:00"
+    ],
+    "order_lead_time": 41,
+    "phone": "18390000606 18973067720",
+    "piecewise_agent_fee": {
+      "description": "夜间配送费¥3.1",
+      "extra_fee": 0.6,
+      "is_extra": true,
+      "no_subsidy_fee": "¥5.1",
+      "rules": [
+        {
+          "fee": 3.1,
+          "price": 20
+        }
+      ],
+      "tips": "夜间配送费¥3.1"
+    },
+    "platform": 0,
+    "posters": [],
+    "promotion_info": "拼单更优惠，越多与便宜。",
+    "rating": 4.6,
+    "rating_count": 1298,
+    "recent_order_num": 5905,
+    "recommend": {
+      "image_hash": "731111f3f9379e772eedf4855beae8a1jpeg",
+      "is_ad": true,
+      "reason": "广告",
+      "track": "{\"rankType\":\"8\"}"
+    },
+    "recommend_reasons": [
+      {
+        "name": "味道超赞"
+      }
+    ],
+    "regular_customer_count": 0,
+    "scheme": "eleme://catering?restaurant_id=157458497",
+    "status": 1,
+    "support_tags": [
+      {
+        "border": "dddddd",
+        "color": "666666",
+        "icon": "4e20966ca2a516de3f02fb9c7fd1bc6dpng",
+        "text": "盖浇饭",
+        "type": 1
+      }
+    ],
+    "supports": [
+      {
+        "border": "90dddddd",
+        "description": "该商户食品安全已由国泰产险承担，食品安全有保障",
+        "icon_color": "999999",
+        "icon_name": "保",
+        "id": 7,
+        "name": "食安保",
+        "text_color": "666666",
+        "two_characters_icon_name": "保险"
+      }
+    ],
+    "theme": {
+      "default_color": "2395ff",
+      "header_style": 0,
+      "hongbao_style": 0,
+      "price_color": "ff5339",
+      "third_tab_name": "商家",
+      "vanish_fields": []
+    },
+    "type": 0
+  },
+  {
+    "address": "长沙高新开发区谷园路38号加州阳光东组团12栋103号门面",
+    "authentic_id": 1333624981901370,
+    "business_info": "{}",
+    "description": "杨国福麻辣烫，全国加盟5000家，杨国福麻辣烫，麻辣鲜香，能喝汤的麻辣烫，我们秉承着食品安全无小事，餐饮服务本就是一件良心活，无论何时何地，谨以以身作则，真正用心去管控每个环节，给顾客吃什么，一定是自己能够吃的。杨国福麻辣烫期待您的莅临。。",
+    "distance": 501,
+    "favored": false,
+    "flavors": [
+      {
+        "id": 214,
+        "name": "麻辣烫"
+      },
+      {
+        "id": 219,
+        "name": "香锅砂锅"
+      }
+    ],
+    "float_delivery_fee": 5.1,
+    "float_minimum_order_amount": 20,
+    "has_story": false,
+    "id": 2010470,
+    "image_path": "00084d574fb645fa7d6470b0bf518d72jpeg",
+    "is_new": false,
+    "is_premium": false,
+    "is_stock_empty": 0,
+    "is_valid": 1,
+    "latitude": 28.211788,
+    "longitude": 112.892929,
+    "max_applied_quantity_per_order": -1,
+    "name": "杨国福麻辣烫",
+    "next_business_time": "",
+    "only_use_poi": false,
+    "opening_hours": [
+      "11:05/24:00"
+    ],
+    "order_lead_time": 28,
+    "phone": "13953020123 13854041556",
+    "piecewise_agent_fee": {
+      "description": "夜间配送费¥5.1",
+      "extra_fee": 2.1,
+      "is_extra": true,
+      "no_subsidy_fee": "",
+      "rules": [
+        {
+          "fee": 5.1,
+          "price": 20
+        }
+      ],
+      "tips": "夜间配送费¥5.1"
+    },
+    "platform": 0,
+    "posters": [],
+    "promotion_info": "杨国福麻辣烫本店每份菜品大概50克左右，所有菜品选好以后秤总重量，有时候会有些菜品多点少点，总重量不少，如有纠结菜品多少的顾客慎点，谢谢您的理解。",
+    "rating": 4.6,
+    "rating_count": 2434,
+    "recent_order_num": 1153,
+    "recommend": {
+      "is_ad": false,
+      "reason": ""
+    },
+    "recommend_reasons": [
+      {
+        "name": "配送飞快"
+      }
+    ],
+    "regular_customer_count": 0,
+    "scheme": "eleme://catering?restaurant_id=2010470",
+    "status": 1,
+    "support_tags": [
+      {
+        "border": "dddddd",
+        "color": "666666",
+        "icon": "4e20966ca2a516de3f02fb9c7fd1bc6dpng",
+        "text": "麻辣烫",
+        "type": 1
+      }
+    ],
+    "supports": [],
+    "theme": {
+      "default_color": "2395ff",
+      "header_style": 0,
+      "hongbao_style": 0,
+      "price_color": "ff5339",
+      "third_tab_name": "商家",
+      "vanish_fields": []
+    },
+    "type": 0
+  },
+  {
+    "address": "长沙高新开发区桐梓坡西路319号可可小城1栋114号",
+    "authentic_id": 7323694981903933,
+    "business_info": "{}",
+    "description": "一家专门做鸡的店",
+    "distance": 2610,
+    "favored": false,
+    "flavors": [
+      {
+        "id": 237,
+        "name": "地方小吃"
+      },
+      {
+        "id": 234,
+        "name": "炸鸡炸串"
+      }
+    ],
+    "float_delivery_fee": 2.6,
+    "float_minimum_order_amount": 15,
+    "folding_restaurant_brand": "叫个鸡",
+    "folding_restaurants": [
+      {
+        "distance": 2739,
+        "id": 158666131,
+        "name": "叫了个炸鸡(时代广场店)",
+        "order_lead_time": 39,
+        "scheme": "eleme://catering?restaurant_id=158666131",
+        "type": 0
+      }
+    ],
+    "has_story": false,
+    "id": 156645933,
+    "image_path": "f48172d75dd1f6e067c3cb8629acdfd7jpeg",
+    "is_new": false,
+    "is_premium": false,
+    "is_stock_empty": 0,
+    "is_valid": 1,
+    "latitude": 28.219929,
+    "longitude": 112.87355,
+    "max_applied_quantity_per_order": -1,
+    "name": "叫个炸鸡(保利店)",
+    "next_business_time": "",
+    "only_use_poi": false,
+    "opening_hours": [
+      "10:30/22:35"
+    ],
+    "order_lead_time": 41,
+    "phone": "13874937140 18974901469",
+    "piecewise_agent_fee": {
+      "description": "夜间配送费¥2.6",
+      "extra_fee": 1.1,
+      "is_extra": true,
+      "no_subsidy_fee": "¥4.6",
+      "rules": [
+        {
+          "fee": 2.6,
+          "price": 15
+        }
+      ],
+      "tips": "夜间配送费¥2.6"
+    },
+    "platform": 0,
+    "posters": [],
+    "promotion_info": "加盟商加",
+    "rating": 4.6,
+    "rating_count": 328,
+    "recent_order_num": 1121,
+    "recommend": {
+      "is_ad": false,
+      "reason": ""
+    },
+    "recommend_reasons": [],
+    "regular_customer_count": 0,
+    "scheme": "eleme://catering?restaurant_id=156645933",
+    "status": 1,
+    "support_tags": [
+      {
+        "border": "dddddd",
+        "color": "666666",
+        "icon": "4e20966ca2a516de3f02fb9c7fd1bc6dpng",
+        "text": "地方小吃",
+        "type": 1
+      },
+      {
+        "border": "dddddd",
+        "color": "333333",
+        "text": "品质联盟"
+      }
+    ],
+    "supports": [
+      {
+        "border": "90dddddd",
+        "description": "该商户食品安全已由国泰产险承担，食品安全有保障",
+        "icon_color": "999999",
+        "icon_name": "保",
+        "id": 7,
+        "name": "食安保",
+        "text_color": "666666",
+        "two_characters_icon_name": "保险"
+      }
+    ],
+    "theme": {
+      "default_color": "2395ff",
+      "header_style": 0,
+      "hongbao_style": 0,
+      "price_color": "ff5339",
+      "third_tab_name": "商家",
+      "vanish_fields": []
+    },
+    "type": 0
+  },
+  {
+    "address": "长沙市岳麓区望城坡街道三里垅15栋110号",
+    "authentic_id": 6353624993784098,
+    "business_info": "{}",
+    "description": "",
+    "distance": 2901,
+    "favored": false,
+    "flavors": [
+      {
+        "id": 213,
+        "name": "米粉面馆"
+      }
+    ],
+    "float_delivery_fee": 7.1,
+    "float_minimum_order_amount": 15,
+    "has_story": false,
+    "id": 155921898,
+    "image_path": "f28a500ac412ca7a250640f9b9b6d410png",
+    "is_new": false,
+    "is_premium": true,
+    "is_stock_empty": 0,
+    "is_valid": 1,
+    "latitude": 28.212203,
+    "longitude": 112.912889,
+    "max_applied_quantity_per_order": -1,
+    "name": "螺鼎记林大螺蛳粉(直营西站店)",
+    "next_business_time": "",
+    "only_use_poi": false,
+    "opening_hours": [
+      "08:00/23:30"
+    ],
+    "order_lead_time": 40,
+    "phone": "0731-89790997",
+    "piecewise_agent_fee": {
+      "description": "夜间配送费¥7.1",
+      "extra_fee": 3.6,
+      "is_extra": true,
+      "no_subsidy_fee": "",
+      "rules": [
+        {
+          "fee": 7.1,
+          "price": 15
+        }
+      ],
+      "tips": "夜间配送费¥7.1"
+    },
+    "platform": 0,
+    "posters": [],
+    "promotion_info": "在过去的一年里感谢各位亲爱的粉丝朋友们对本店的支持和厚爱。祝各位亲们新年快乐、万事顺意！放假时间:2018年2月10日-2月22日，2月23日(初八）正常营业！螺蛳粉因酸、辣、鲜、爽、烫、粉Q弹风靡全球《政法频道》这种非娱乐以权威著称的栏目竟然都在推荐，欢迎各位亲爱的粉丝朋友来店",
+    "rating": 4.8,
+    "rating_count": 848,
+    "recent_order_num": 1674,
+    "recommend": {
+      "is_ad": false,
+      "reason": ""
+    },
+    "recommend_reasons": [
+      {
+        "name": "回头客多"
+      }
+    ],
+    "regular_customer_count": 0,
+    "scheme": "eleme://catering?restaurant_id=155921898",
+    "status": 1,
+    "support_tags": [
+      {
+        "border": "dddddd",
+        "color": "666666",
+        "icon": "4e20966ca2a516de3f02fb9c7fd1bc6dpng",
+        "text": "米粉面馆",
+        "type": 1
+      }
+    ],
+    "supports": [],
+    "theme": {
+      "default_color": "2395ff",
+      "header_style": 0,
+      "hongbao_style": 0,
+      "price_color": "ff5339",
+      "third_tab_name": "商家",
+      "vanish_fields": []
+    },
+    "type": 0
+  },
+  {
+    "address": "长沙市岳麓区天顶街道枫林三路金枫市场Z26",
+    "authentic_id": 4383664986143632,
+    "business_info": "{}",
+    "description": "",
+    "distance": 2123,
+    "favored": false,
+    "flavors": [
+      {
+        "id": 235,
+        "name": "鸭脖卤味"
+      },
+      {
+        "id": 237,
+        "name": "地方小吃"
+      }
+    ],
+    "float_delivery_fee": 3,
+    "float_minimum_order_amount": 38,
+    "folding_restaurant_brand": "仙都辣酱鸭",
+    "folding_restaurants": [
+      {
+        "distance": 2679,
+        "id": 157084355,
+        "name": "仙都辣酱鸭（麓谷林语店）",
+        "order_lead_time": 0,
+        "scheme": "eleme://catering?restaurant_id=157084355",
+        "type": 0
+      },
+      {
+        "distance": 2715,
+        "id": 159252420,
+        "name": "仙都辣酱鸭(梅溪湖东店)",
+        "order_lead_time": 32,
+        "scheme": "eleme://catering?restaurant_id=159252420",
+        "type": 0
+      },
+      {
+        "distance": 3067,
+        "id": 498010,
+        "name": "仙都辣酱鸭(西站步步高店)",
+        "order_lead_time": 29,
+        "scheme": "eleme://catering?restaurant_id=498010",
+        "type": 0
+      },
+      {
+        "distance": 3219,
+        "id": 156804538,
+        "name": "仙都辣酱鸭(花语馨苑店)",
+        "order_lead_time": 20,
+        "scheme": "eleme://catering?restaurant_id=156804538",
+        "type": 0
+      },
+      {
+        "distance": 22250,
+        "id": 170718,
+        "name": "仙都（尚都店）",
+        "order_lead_time": 39,
+        "scheme": "eleme://catering?restaurant_id=170718",
+        "type": 0
+      },
+      {
+        "distance": 22276,
+        "id": 1316607,
+        "name": "仙都（霆锋店）",
+        "order_lead_time": 40,
+        "scheme": "eleme://catering?restaurant_id=1316607",
+        "type": 0
+      },
+      {
+        "distance": 22326,
+        "id": 155106864,
+        "name": "仙都（星都店）",
+        "order_lead_time": 38,
+        "scheme": "eleme://catering?restaurant_id=155106864",
+        "type": 0
+      },
+      {
+        "distance": 22781,
+        "id": 198580,
+        "name": "仙都（天华路店）",
+        "order_lead_time": 36,
+        "scheme": "eleme://catering?restaurant_id=198580",
+        "type": 0
+      }
+    ],
+    "has_story": false,
+    "id": 163082332,
+    "image_path": "a9a1968ec257109de526afb80894ab30png",
+    "is_new": false,
+    "is_premium": true,
+    "is_stock_empty": 0,
+    "is_valid": 1,
+    "latitude": 28.207756,
+    "longitude": 112.905658,
+    "max_applied_quantity_per_order": -1,
+    "name": "仙都辣酱鸭(航天店)",
+    "next_business_time": "",
+    "only_use_poi": false,
+    "opening_hours": [
+      "08:00/01:00"
+    ],
+    "order_lead_time": 36,
+    "phone": "13975138254",
+    "piecewise_agent_fee": {
+      "description": "配送费¥3",
+      "extra_fee": 0,
+      "is_extra": false,
+      "no_subsidy_fee": "",
+      "rules": [
+        {
+          "fee": 3,
+          "price": 38
+        }
+      ],
+      "tips": "配送费¥3"
+    },
+    "platform": 0,
+    "posters": [],
+    "promotion_info": "",
+    "rating": 5,
+    "rating_count": 43,
+    "recent_order_num": 77,
+    "recommend": {
+      "is_ad": false,
+      "reason": ""
+    },
+    "recommend_reasons": [],
+    "regular_customer_count": 0,
+    "scheme": "eleme://catering?restaurant_id=163082332",
+    "status": 1,
+    "support_tags": [
+      {
+        "border": "dddddd",
+        "color": "666666",
+        "icon": "4e20966ca2a516de3f02fb9c7fd1bc6dpng",
+        "text": "鸭脖卤味",
+        "type": 1
+      }
+    ],
+    "supports": [],
+    "theme": {
+      "default_color": "2395ff",
+      "header_style": 0,
+      "hongbao_style": 0,
+      "price_color": "ff5339",
+      "third_tab_name": "商家",
+      "vanish_fields": []
+    },
+    "type": 0
+  },
+  {
+    "address": "长沙市岳麓区天顶街道金茂览秀城LG层DG1009",
+    "authentic_id": 8373684994790761,
+    "business_info": "{}",
+    "delivery_mode": {
+      "border": "",
+      "color": "2395FF",
+      "gradient": {
+        "rgb_from": "00AAFF",
+        "rgb_to": "0085FF"
+      },
+      "icon_hash": "b9b45d2f6ff0dbeef3a78ef0e4e90abapng",
+      "id": 1,
+      "is_solid": true,
+      "text": "蜂鸟专送",
+      "text_color": "FFFFFF"
+    },
+    "description": "",
+    "distance": 2596,
+    "favored": false,
+    "flavors": [
+      {
+        "id": 237,
+        "name": "地方小吃"
+      },
+      {
+        "id": 265,
+        "name": "简餐"
+      }
+    ],
+    "float_delivery_fee": 6.6,
+    "float_minimum_order_amount": 15,
+    "folding_restaurant_brand": "盛香亭新式热卤",
+    "folding_restaurants": [
+      {
+        "distance": 4054,
+        "id": 156377294,
+        "name": "盛香亭新式热卤(梅溪湖店)",
+        "order_lead_time": 40,
+        "scheme": "eleme://catering?restaurant_id=156377294",
+        "type": 0
+      },
+      {
+        "distance": 7383,
+        "id": 163767552,
+        "name": "盛香亭新式热卤（人人乐店）",
+        "order_lead_time": 35,
+        "scheme": "eleme://catering?restaurant_id=163767552",
+        "type": 0
+      }
+    ],
+    "has_story": false,
+    "id": 161615461,
+    "image_path": "c120ff3b86745b58b6de38b5bf5f5c11png",
+    "is_new": false,
+    "is_premium": false,
+    "is_stock_empty": 0,
+    "is_valid": 1,
+    "latitude": 28.196562,
+    "longitude": 112.902193,
+    "max_applied_quantity_per_order": -1,
+    "name": "盛香亭新式热卤(金茂览秀城店)",
+    "next_business_time": "",
+    "only_use_poi": false,
+    "opening_hours": [
+      "10:30/21:30"
+    ],
+    "order_lead_time": 35,
+    "phone": "15367988153 18670013686 18229896161",
+    "piecewise_agent_fee": {
+      "description": "夜间配送费¥6.6",
+      "extra_fee": 3.6,
+      "is_extra": true,
+      "no_subsidy_fee": "",
+      "rules": [
+        {
+          "fee": 6.6,
+          "price": 15
+        }
+      ],
+      "tips": "夜间配送费¥6.6"
+    },
+    "platform": 0,
+    "posters": [],
+    "promotion_info": "",
+    "rating": 4.8,
+    "rating_count": 213,
+    "recent_order_num": 376,
+    "recommend": {
+      "is_ad": false,
+      "reason": ""
+    },
+    "recommend_reasons": [],
+    "regular_customer_count": 0,
+    "scheme": "eleme://catering?restaurant_id=161615461",
+    "status": 1,
+    "support_tags": [
+      {
+        "border": "dddddd",
+        "color": "666666",
+        "icon": "4e20966ca2a516de3f02fb9c7fd1bc6dpng",
+        "text": "地方小吃",
+        "type": 1
+      },
+      {
+        "border": "dddddd",
+        "color": "333333",
+        "text": "品质联盟"
+      }
+    ],
+    "supports": [],
+    "theme": {
+      "default_color": "2395ff",
+      "header_style": 0,
+      "hongbao_style": 0,
+      "price_color": "ff5339",
+      "third_tab_name": "商家",
+      "vanish_fields": []
+    },
+    "type": 0
   }
 ]

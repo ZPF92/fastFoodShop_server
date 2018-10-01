@@ -172,5 +172,5 @@ router.get('/shops', function (req, res) {
     res.send({code: 0, data})
   }, 300)
 })
-
+//No newline at end of file
 module.exports = router;
