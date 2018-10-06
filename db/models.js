@@ -12,14 +12,14 @@
  */
 // 1. 连接数据库
 const mongoose = require('mongoose')
-mongoose.connect('mongodb://localhost:8888/guigu_zhipin')
+mongoose.connect('mongodb://localhost:8888/lugu')
 const conn = mongoose.connection
 conn.on('connected', function () {
   console.log('数据库连接成功!')
 })
 
 // 2. 得到对应特定集合的Model: UserModel
-const userSchema = mongoose.Schema({
+const userSchema = new mongoose.Schema({
   // 用户名
   'name': {type: String},
   // 密码

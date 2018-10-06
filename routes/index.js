@@ -26,15 +26,18 @@ router.post('/login_pwd', function (req, res) {
   delete req.session.captcha
 
   UserModel.findOne({name}, _filter, function (err, user) {
+    console.log(user);
     if (user) {
       if (user.pwd !== pwd) {
         res.send({code: 1, msg: '用户名或密码不正确!'})
       } else {
+        req.session.userid = user._id
         res.send({code: 0, data: user})
       }
     } else {
       const userModel = new UserModel({name, pwd})
       userModel.save(function (err, user) {
+        console.log(user);
         // 向浏览器端返回cookie(key=value)
         // res.cookie('userid', user._id, {maxAge: 1000*60*60*24*7})
         req.session.userid = user._id
